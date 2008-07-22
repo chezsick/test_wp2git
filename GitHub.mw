@@ -2,6 +2,7 @@
 {{Refimprove|date=July 2008}}
 '''github''', is a free [[project hosting]] service based on git, and ruby on rails. 
 
+As of Rails 2.1 (coming very soon), GitHub will be the new official home of the Rails source repository
 ==See also==
 * [[Comparison of open source software hosting facilities]]
 
