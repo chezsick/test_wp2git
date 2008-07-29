@@ -1,5 +1,14 @@
 {{Expand|date=July 2008}}
 {{Refimprove|date=July 2008}}
+{{Infobox Website
+| name = GitHub
+| url = [http://github.com/ GitHub.com]
+| commercial = Yes
+| type = collaborative revision control
+| language = [[English language|English]]
+| registration = Required
+| launch date = [[February]] [[2008]]
+}}
 '''GitHub''' is a free [[project hosting]] service based on [[Git (software)|git]] and [[Ruby on Rails]]. 
 
 ==Used by==
