@@ -13,8 +13,14 @@
 
 ==Used by==
 
-* [[Ruby on Rails]]
+* [[Capistrano]]
+* [[Haml]]
+* [[Merb]]
 * [[Prototype JavaScript Framework]]
+* [[RSpec]]
+* [[Rubinius]]
+* [[Ruby on Rails]]
+* [[script.aculo.us]]
 
 ==See also==
 * [[Comparison of open source software hosting facilities]]
