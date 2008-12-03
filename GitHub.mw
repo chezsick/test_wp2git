@@ -9,7 +9,7 @@
 | registration = Required
 | launch date = [[February]] [[2008]]
 }}
-'''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by [[Logical Awesome]] ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
+'''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by Logical Awesome ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
 
 GitHub operates a [[pastebin]]-style site at gist.github.com
 ==Used by==
