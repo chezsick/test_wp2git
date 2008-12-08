@@ -11,7 +11,7 @@
 }}
 '''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by Logical Awesome ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
 
-GitHub operates a [[pastebin]]-style site at [http://gist.github.com gist.github.com]
+GitHub operates a [[pastebin]]-style site at [http://gist.github.com gist.github.com].
 ==Used by==
 
 Microsoft has created a repository for IronRuby projects, to be hosted on GitHub.<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>
