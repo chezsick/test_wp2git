@@ -7,7 +7,7 @@
 | type = collaborative revision control
 | language = [[English language|English]]
 | registration = Required
-| launch date = [[February]] [[2008]]
+| launch date = February 2008
 }}
 '''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by Logical Awesome ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
 
@@ -27,7 +27,7 @@ Other notable projects that use GitHub as their hosted revision control platform
 * [[Rubinius]]
 * [[Merb]]
 * [[script.aculo.us]]
-* [[Blueprint_(CSS_framework)|Blueprint CSS Framework]]
+* [[Blueprint (CSS framework)|Blueprint CSS Framework]]
 
 ==See also==
 * [[Comparison of open source software hosting facilities]]
@@ -40,7 +40,7 @@ Other notable projects that use GitHub as their hosted revision control platform
 *http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html
 
 ==External links==
-
 * [http://logicalawesome.com/  Logical Awesome] - creators of GitHub
 
-[[Category:Project management software]] [[Category:Computing websites]]
+[[Category:Project management software]]
+[[Category:Computing websites]]
