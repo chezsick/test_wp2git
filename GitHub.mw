@@ -1,14 +1,23 @@
 {{Expand|date=July 2008}}
 {{Refimprove|date=July 2008}}
+
 {{Infobox Website
-| name = GitHub
-| url = [http://github.com/ GitHub.com]
-| commercial = Yes
-| type = collaborative revision control
-| language = [[English language|English]]
-| registration = Required
-| launch date = February 2008
+| name           = GitHub
+| logo           = [[Image:Upload_file.jpg |51px|GitHub Logo]] <!-- http://github.com/mojombo/github-media/blob/11f3180fc00dea51fe504261aa9ccb71a4ee6bdb/octocat_gems.png?raw=true -->
+| screenshot     = [[Image:Upload_file.jpg |315px|Project and Developer News Feeds]] <!-- http://assets2.github.com/images/modules/home/medium_screens/dashboard.png?d5ed215cb6b44cb7d9b7593714ca5535f54676b4 -->
+| url            = [http://github.com/ GitHub.com]
+| alexa          = [http://www.alexa.com/data/details/traffic_details/github.com  97,448] (01/13/2009)
+| commercial     = Yes
+| type           = collaborative revision control
+| language       = [[English language|English]]
+| registration   = Required
+| owner          = [[Logical Awesome]]
+| launch date    = February 2008
+| current status = online
+| slogan         = Social Code Hosting
 }}
+
+
 '''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by Logical Awesome ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
 
 GitHub operates a [[pastebin]]-style site at [http://gist.github.com gist.github.com], wikis for the individual repositories and webpages for their users which can be edited through a git repository.
