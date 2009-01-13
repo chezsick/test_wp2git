@@ -11,7 +11,12 @@
 }}
 '''GitHub''' is a [[project hosting]] service for projects using the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]], being developed by Logical Awesome ([[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Preston-Werner]]).
 
-GitHub operates a [[pastebin]]-style site at [http://gist.github.com gist.github.com].
+GitHub operates a [[pastebin]]-style site at [http://gist.github.com gist.github.com], wikis for the individual repositories and webpages for their users which can be edited through a git repository.
+
+In early 2008 Git became more and more popular among Ruby on Rails developers and de facto replaced [[Subversion (software)|Subversion]] by the end of the year. GitHub emerged to fill the need of a hosting service for repositories which [[Rubyforge]] or [[Souceforge]] didn't offer. Besides commercial plans GitHub also offers free accounts for open source projects.
+
+As Git is more focused on the individual developer the GitHub service also implemented social networking functions like feeds, followers and the network graph to display how developers work on their versions of a repository. These networking features are also a major difference to Rubyforge and the like which are project centered.
+
 ==Used by==
 
 Microsoft has created a repository for IronRuby projects, to be hosted on GitHub.<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>
