@@ -6,7 +6,7 @@
 <!-- | logo           = [[Image:Upload_file.jpg |51px|GitHub Logo]] <!-- http://github.com/mojombo/github-media/blob/11f3180fc00dea51fe504261aa9ccb71a4ee6bdb/octocat_gems.png?raw=true -->
 <!-- | screenshot     = [[Image:Upload_file.jpg |315px|Project and Developer News Feeds]] <!-- http://assets2.github.com/images/modules/home/medium_screens/dashboard.png?d5ed215cb6b44cb7d9b7593714ca5535f54676b4 -->
 | url            = [http://github.com/ GitHub.com]
-| alexa          = [http://www.alexa.com/data/details/traffic_details/github.com  97,448] (01/13/2009)
+| alexa          = [http://www.alexa.com/data/details/traffic_details/github.com  95,792] (2009-03-01)
 | commercial     = Yes
 | type           = collaborative revision control
 | language       = [[English language|English]]
@@ -29,6 +29,7 @@ GitHub also operates a [[pastebin]]-style site at [http://gist.github.com gist.g
 Microsoft has created a repository for IronRuby projects, to be hosted on GitHub.<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>
 
 Other notable projects that use GitHub as their hosted revision control platform include:
+* [[Perl]] - moved to Git on 2008-12-22<ref>[http://use.perl.org/articles/08/12/22/0830205.shtml Perl 5 now uses Git for version control]</ref> and mirrored to GitHub since 2008-12-23<ref>[http://github.com/blog/276-perl-mirror-on-github Perl mirror on GitHub]</ref>
 * [[Ruby on Rails]]
 * [[Yahoo!_UI_Library|YUI]]
 * [[Capistrano]]
@@ -44,6 +45,12 @@ Other notable projects that use GitHub as their hosted revision control platform
 * [[BlogBridge]]
 * [[JUnit]]
 * [[rakudo]]
+
+==Statistics==
+
+GitHub was launched in February 2008<ref>[http://github.com/blog/1-hotkeys-and-wikis First GitHub blog post]</ref>.
+
+In a talk at Yahoo! on 2008-02-24, GitHub team members announced that during the year that GitHub had been online, it accumulated 46,000 public repositories, of which 17,000 in the last month alone. 6,200 repositories have been forked at least once and 4,600 have merged from fork<ref>[http://wiki.dandascalescu.com/essays/pita-threshold The PITA Threshold - GitHub vs. CPAN]</ref>.
 
 ==See also==
 * [[Comparison of open source software hosting facilities]]
