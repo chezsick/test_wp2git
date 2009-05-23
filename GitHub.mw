@@ -11,14 +11,14 @@
 | type           = collaborative revision control
 | language       = [[English language|English]]
 | registration   = Required
-| owner          = [[Logical Awesome]]
+| owner          = Logical Awesome
 | launch date    = February 2008
 | current status = online
 | slogan         = Social Coding
 }}
 
 
-'''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for projects that use the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]] by Logical Awesome developers [[Chris Wanstrath]], [[PJ Hyett]], and [[Tom Werner (web developer)|Tom Preston-Werner]]. GitHub offers both commercial plans and free accounts for open source projects.
+'''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for projects that use the [[Git (software)|Git]] revision control system. It is written in [[Ruby on Rails]] by Logical Awesome developers Chris Wanstrath, PJ Hyett, and [[Tom Werner (web developer)|Tom Preston-Werner]]. GitHub offers both commercial plans and free accounts for open source projects.
 
 The site provides social networking functionality like feeds, followers and the network graph to display how developers work on their versions of a repository.
 
