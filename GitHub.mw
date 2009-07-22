@@ -29,7 +29,7 @@ GitHub also operates a [[pastebin]]-style site at [http://gist.github.com gist.g
 [[Microsoft]] has created a repository for [[IronRuby]] projects, to be hosted on GitHub.<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>
 
 Other notable projects that use GitHub as their hosted revision control platform include:
-* [[Avogadro (software)|Avogadro]]<ref>http://github.com/cryos/avogadro/tree/master</ref>
+* [[Avogadro (software)|Avogadro]]<ref>http://avogadro.openmolecules.net/wiki/Working_With_Git</ref><ref>http://github.com/cryos/avogadro/tree/master</ref>
 * [[Blueprint (CSS framework)|Blueprint CSS Framework]]
 * [[BlogBridge]]
 * [[Capistrano]]
