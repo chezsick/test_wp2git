@@ -31,6 +31,7 @@ GitHub also operates a [[pastebin]]-style site at [http://gist.github.com gist.g
 Other notable projects that use GitHub as their hosted revision control platform include:
 * [[Perl]]<ref>[http://github.com/blog/276-perl-mirror-on-github Perl mirror on GitHub]</ref><ref>[http://github.com/github/perl/tree/8d063cd8450e59ea1c611a2f4f5a21059a2804f1 Perl's first commit, 1987-12-17]</ref>
 * [[Avogadro (software)|Avogadro]]<ref>http://avogadro.openmolecules.net/wiki/Working_With_Git</ref><ref>http://github.com/cryos/avogadro/tree/master</ref>
+* [[PHP]]
 * [[Blueprint (CSS framework)|Blueprint CSS Framework]]
 * [[BlogBridge]]
 * [[Capistrano]]
