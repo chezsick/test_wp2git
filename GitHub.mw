@@ -25,9 +25,7 @@ GitHub also operates a [[pastebin]]-style site at [http://gist.github.com gist.g
 
 ==Used by==
 
-[[Microsoft]] has created a repository for [[IronRuby]] projects, to be hosted on GitHub.<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>
-
-Other notable projects that use GitHub as their hosted revision control platform include:
+Projects that use GitHub as their hosted revision control platform include:
 * [[Perl]]<ref>[http://github.com/blog/276-perl-mirror-on-github Perl mirror on GitHub]</ref><ref>[http://github.com/github/perl/tree/8d063cd8450e59ea1c611a2f4f5a21059a2804f1 Perl's first commit, 1987-12-17]</ref>
 * [[Avogadro (software)|Avogadro]]<ref>http://avogadro.openmolecules.net/wiki/Working_With_Git</ref><ref>http://github.com/cryos/avogadro/tree/master</ref>
 * [[PHP]]
@@ -35,6 +33,7 @@ Other notable projects that use GitHub as their hosted revision control platform
 * [[BlogBridge]]
 * [[Capistrano]]
 * [[Haml]]
+* [[IronRuby]] (repository created by [[Microsoft]]<ref>http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/</ref>)
 * [[JUnit]]
 * [[Linux Mint]]<ref>http://www.linuxmint.com/blog/?p=970</ref><ref>http://distrowatch.com/weekly.php?issue=20090727#news</ref>
 * [[Merb]]
