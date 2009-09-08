@@ -62,11 +62,15 @@ In a talk at [[Yahoo!]] on 2-24-2009, GitHub team members announced that during 
 * [[Comparison of open source software hosting facilities]]
 
 ==References==
-{{reflist}}
+Specific references:
+{{reflist|2}}
+General references:
+{{refbegin}}
 *http://www.crunchbase.com/company/github
 *http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh
 *http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html
 *http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html
+{{refend}}
 
 ==External links==
 * [http://logicalawesome.com/  Logical Awesome] - creators of GitHub
