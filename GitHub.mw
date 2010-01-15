@@ -74,10 +74,10 @@ Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009
 {{reflist|2}}
 ===General===
 {{refbegin}}
-*http://www.crunchbase.com/company/github
-*http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh
-*http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html
-*http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html
+*{{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
+*{{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
+*{{cite news | url = http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html | title = GitHub unites Version Control with the Pastie | work = [[The Washington Post]] | first = Rob | last = Olson | date = 22 July 2008}}
+*{{cite web | url = http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html | title = GitHub Officially Launches: Git Hosting A-Go-Go! | work = Ruby Inside | first = Peter | last = Cooper | date = 10 April 2008}}
 {{refend}}
 
 ==External links==
