@@ -36,25 +36,25 @@ Projects that use GitHub as their hosted revision control platform include:
 * [[Erlang (programming language)|Erlang]]
 * [[GNU Smalltalk]]
 * [[Haml]]
-* [[IronRuby]] (repository created by [[Microsoft]]<ref>{{cite web | url = http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/ | title = Microsoft Flashes Its Ruby Bling | work = [[eWeek]] | first = Darryl K. | last = Taft | date = 25 July 2008 | }}</ref>)
+* [[IronRuby]] (repository created by [[Microsoft]]<ref>{{cite web | url = http://www.eweek.com/c/a/Application-Development/Microsoft-Flashes-its-Ruby-Bling/ | title = Microsoft Flashes Its Ruby Bling | work = [[eWeek]] | first = Darryl K. | last = Taft | date = 25 July 2008}}</ref>)
 * [[jQuery]]<ref>{{cite web | url = http://github.com/blog/536-jquery | title = jQuery! | work = GitHub blog | date = 29 October 2009 | first = Chris | last = Wanstrath}}</ref>
 * [[JUnit]]
-* [[Linux Mint]]<ref>http://www.linuxmint.com/blog/?p=970</ref><ref>http://distrowatch.com/weekly.php?issue=20090727#news</ref>
+* [[Linux Mint]]<ref>{{cite web | url = http://www.linuxmint.com/blog/?p=970 | title = Mint to use Launchpad for translations, bugs, blueprints and github for code hosting and version control | work = The Linux Mint Blog | date = 22 July 2009}}</ref><ref>{{cite journal | url = http://distrowatch.com/weekly.php?issue=20090727#news | title = Miscellaneous News | first = Chris | last = Smart | work = DistroWatch Weekly | issue = 313 | date = 27 July 2009}}</ref>
 * [[Merb]]
 * [[MooTools]]
 * [[Multi Theft Auto]]
-* [[Perl]]<ref>[http://github.com/blog/276-perl-mirror-on-github Perl mirror on GitHub]</ref><ref>[http://github.com/github/perl/tree/8d063cd8450e59ea1c611a2f4f5a21059a2804f1 Perl's first commit, 1987-12-17]</ref>
+* [[Perl]]<ref>{{cite web | url = http://github.com/blog/276-perl-mirror-on-github | title = Perl Mirror on GitHub | work = GitHub blog | date = 23 December 2008 | first = Scott | last = Chacon}}</ref><ref>{{cite web | url = http://github.com/github/perl/tree/8d063cd8450e59ea1c611a2f4f5a21059a2804f1 | title = Perl's first commit | work = GitHub | first = Larry | last = Wall | date = 18 December 1987}}</ref>
 * [[PHP]]
 * [[Prototype JavaScript Framework|Prototype]]
 * [[RSpec]]
 * [[Rubinius]]
-* [[Ruby on Rails]]<ref>http://wiki.rubyonrails.org/howtos/git</ref><ref>http://github.com/rails/rails/tree/master</ref>
+* [[Ruby on Rails]]<ref>{{cite web | url = http://wiki.rubyonrails.org/howtos/git | title = Git Version Control | work = Rails Wiki}}</ref><ref>{{cite web | url = http://github.com/rails/rails/tree/master | title = rails's rails at master | work = GitHub}}</ref>
 * [[script.aculo.us]]
-* [[Sinatra (software)|Sinatra]]<ref>[http://www.sinatrarb.com Sinatra]</ref>
-* [[SproutCore]]<ref>http://wiki.github.com/sproutit/sproutcore</ref>
-* [[Vanilla (software)|Vanilla]]<ref>http://www.vanillaforums.org</ref>
-* [[WikiTrust]]<ref>[http://github.com/collaborativetrust/WikiTrust WikiTrust] on GitHub</ref>
-* [[Yahoo!_UI_Library|YUI]]
+* [[Sinatra (software)|Sinatra]]<ref>{{cite web | url = http://www.sinatrarb.com | title = Sinatra}}</ref>
+* [[SproutCore]]<ref>{{cite web | url = http://wiki.github.com/sproutit/sproutcore | title = sproutcore | work = GitHub}}</ref>
+* [[Vanilla (software)|Vanilla]]<ref>{{cite web | url = http://www.vanillaforums.org | title = Vanilla}}</ref>
+* [[WikiTrust]]<ref>{{cite web | url = http://github.com/collaborativetrust/WikiTrust | title = collaborativetrust's WikiTrust at master | work = GitHub}}</ref>
+* [[Yahoo! UI Library|YUI]]
 {{div col end}}
 
 ==Statistics==
