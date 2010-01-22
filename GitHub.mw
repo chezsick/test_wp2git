@@ -11,7 +11,7 @@
 | type           = collaborative revision control
 | language       = [[English language|English]]
 | registration   = Required
-| owner          = [http://logicalawesome.com/  Logical Awesome]
+| owner          = [http://github.com/  GitHub, Inc.]
 | launch date    = February 2008
 | current status = online
 | slogan         = Social Coding
@@ -22,6 +22,8 @@
 The site provides social networking functionality like feeds, followers and the network graph to display how developers work on their versions of a repository.
 
 GitHub also operates a [[pastebin]]-style site, wikis for the individual repositories and web pages that can be edited through a git repository.
+
+As of January 1, 2010, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = http://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
 ==Used by==
 
