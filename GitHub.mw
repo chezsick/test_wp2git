@@ -54,7 +54,7 @@ Projects that use GitHub as their hosted revision control platform include:
 * [[Prototype JavaScript Framework|Prototype]]
 * [[RSpec]]
 * [[Rubinius]]
-* [[Ruby_(programming_language)|Ruby]]
+* [[Ruby (programming language)|Ruby]]
 * [[Ruby on Rails]]<ref>{{cite web | url = http://wiki.rubyonrails.org/howtos/git | title = Git Version Control | work = Rails Wiki}}</ref><ref>{{cite web | url = http://github.com/rails/rails/tree/master | title = rails's rails at master | work = GitHub}}</ref>
 * [[script.aculo.us]]
 * [[Sinatra (software)|Sinatra]]<ref>{{cite web | url = http://www.sinatrarb.com | title = Sinatra}}</ref>
@@ -70,11 +70,11 @@ Projects that use GitHub as their hosted revision control platform include:
 
 GitHub was launched in February 2008.<ref>{{cite web | url = http://github.com/blog/1-hotkeys-and-wikis | title = Hotkeys and Wikis | work = GitHub | date = 18 February 2008 | first = Chris | last = Wanstrath}}</ref>
 
-In a talk at [[Yahoo!]] on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the last month alone. At that time, about 6,200 repositories have been forked at least once and 4,600 merged. In another talk delivered at Yahoo! on 27 July 2009, Tom Preston-Werner announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = 
+In a talk at [[Yahoo!]] on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the last month alone. At that time, about 6,200 repositories have been forked at least once and 4,600 merged. In another talk delivered at Yahoo! on 27 July 2009, Tom Preston-Werner announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work =
 Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref>
 
 ==See also==
-{{fossportal}}
+{{Portal|Free software}}
 * [[Bitbucket]]
 * [[Comparison of open source software hosting facilities]]
 * [[Gitorious]]
@@ -82,22 +82,23 @@ Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009
 
 ==References==
 ===Specific===
-{{reflist|2}}
+{{Reflist|2}}
 ===General===
-{{refbegin}}
+{{Refbegin}}
 *{{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
 *{{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
 *{{cite news | url = http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html | title = GitHub unites Version Control with the Pastie | work = [[The Washington Post]] | first = Rob | last = Olson | date = 22 July 2008}}
 *{{cite web | url = http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html | title = GitHub Officially Launches: Git Hosting A-Go-Go! | work = Ruby Inside | first = Peter | last = Cooper | date = 10 April 2008}}
-{{refend}}
+{{Refend}}
 
 ==External links==
 * [http://github.com/ Github] — GitHub homepage
-* [http://pages.github.com/ GitHub Pages] — allow you to publish web content to a github.com subdomain 
+* [http://pages.github.com/ GitHub Pages] — allow you to publish web content to a github.com subdomain
 * [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow] — introduction to distributed collaboration on GitHub
 
 {{Bug tracking systems}}
 
+{{DEFAULTSORT:Github}}
 [[Category:Free software hosting facilities]]
 [[Category:Project management software]]
 [[Category:Computing websites]]
