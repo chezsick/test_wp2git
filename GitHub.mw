@@ -2,8 +2,8 @@
 
 {{Infobox Website
 | name           = GitHub
-<!-- | logo           = [[Image:Upload_file.jpg |51px|GitHub Logo]] <!-- http://github.com/mojombo/github-media/blob/11f3180fc00dea51fe504261aa9ccb71a4ee6bdb/octocat_gems.png?raw=true -->
-<!-- | screenshot     = [[Image:Upload_file.jpg |315px|Project and Developer News Feeds]] <!-- http://assets2.github.com/images/modules/home/medium_screens/dashboard.png?d5ed215cb6b44cb7d9b7593714ca5535f54676b4 -->
+| logo           = [[File:Github.png]]
+| screenshot     = 
 | url            = [http://github.com/ GitHub.com]
 | alexa          = 729 <ref>{{cite web | url = http://www.alexa.com/data/details/traffic_details/github.com | title = github.com | publisher = [[Alexa Internet]] | accessdate = 5 October 2010}}</ref>
 | commercial     = Yes
