@@ -25,7 +25,7 @@ GitHub also operates a [[pastebin]]-style site, wikis for the individual reposit
 {{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = http://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
 ==Users==
-
+{{example farm|section|date=October 2010}}
 Projects that use GitHub as their hosted revision control platform include:
 {{div col|colwidth=14em}}
 * [[Avogadro (software)|Avogadro]]<ref>{{cite web | url = http://avogadro.openmolecules.net/wiki/Working_With_Git | title = Working With Git | work = Avogadro}}</ref><ref>{{cite web | url = http://github.com/cryos/avogadro/tree/master | title = cryos's avogadro at master | work = GitHub}}</ref>
