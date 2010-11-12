@@ -36,13 +36,13 @@ Projects that use GitHub as their hosted revision control platform include:
 * [[Clojure]]
 * [[Dada Mail]]
 * [[Diaspora (software)|Diaspora]]
-* [[Doctrine_(PHP)|Doctrine]]
+* [[Doctrine (PHP)|Doctrine]]
 * [[Erlang (programming language)|Erlang]]
 * [[Eureka Streams]]
 * [[Android (operating system)|Google Android]]<ref>{{cite web | url = http://github.com/blog/186-google-android-git-and-github | title = Google, Android, Git and GitHub}}</ref>
 * [[OpenFrameworks]]
 * [[Haml]]
-* [[Hibernate]]
+* [[Hibernate (Java)|Hibernate]]<ref>{{cite web | url = http://www.hibernate.org/sourcecode | title = Source Code | work = Hibernate | accessdate = 13 November 2010}}</ref>
 * [[jQuery]]<ref>{{cite web | url = http://github.com/blog/536-jquery | title = jQuery! | work = GitHub blog | date = 29 October 2009 | first = Chris | last = Wanstrath}}</ref>
 * [[JUnit]]
 * [[Lift (web framework)|Lift]]
