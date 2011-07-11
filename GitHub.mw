@@ -10,7 +10,8 @@
 | language       = [[English language|English]]
 | registration   = Required
 | owner          = [http://github.com/  GitHub, Inc.]
-| launch date    = February 2008
+| launch date    = April 2008<ref name="launched">
+{{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 18 February 2008 | first = Chris | last = Wanstrath}}</ref>
 | current status = online
 | slogan         = Social Coding
 }}
@@ -25,7 +26,7 @@ GitHub also operates a [[pastebin]]-style site, wikis for the individual reposit
 
 ==Statistics==
 
-GitHub was launched in February 2008.<ref>{{cite web | url = http://github.com/blog/1-hotkeys-and-wikis | title = Hotkeys and Wikis | work = GitHub | date = 18 February 2008 | first = Chris | last = Wanstrath}}</ref>
+GitHub was launched in April 2008.<ref name="launched" />
 
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the last month alone. At that time, about 6,200 repositories had been forked at least once and 4,600 merged. In another talk delivered at Yahoo! on 27 July 2009, Tom Preston-Werner announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref> In July 2010 GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
 One Million Repositories, Git Official Blog | date = 25 July 2010}}</ref> On April 2011, Github announced that it is hosting 2 million repositories. <ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date = 20 April 2011}}</ref>
