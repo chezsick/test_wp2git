@@ -18,9 +18,10 @@
 
 '''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for software development projects that use the [[Git (software)|Git]] [[revision control]] system. It is written using [[Ruby on Rails]] and [[Erlang_(programming_language)|Erlang]] by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath, PJ Hyett, and Tom Preston-Werner. GitHub offers both commercial plans and free accounts for open source projects. According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site.<ref>[http://www.survs.com/WO/WebObjects/Survs.woa/wa/shareResults?survey=2PIMZGU0&rndm=678J66QRA2 Git User's Survey 2009]</ref>
 
+==Description==
 The site provides social networking functionality such as feeds, followers and the network graph to display how developers work on their versions of a repository.
 
-GitHub also operates a [[pastebin]]-style site, wikis for the individual repositories and web pages that can be edited through a git repository.
+GitHub also operates a [[pastebin]]-style site called Gist,<ref>[https://gist.github.com/gists Github:gist]</ref> wikis for individual repositories, and web pages that can be edited through a git repository.
 
 {{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = http://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
