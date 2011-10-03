@@ -40,6 +40,7 @@ On September 21, 2011 GitHub announced it had reached over 1 million users.<ref>
 
 ==See also==
 {{Portal|Free software}}
+
 * [[Bitbucket]]
 * [[Comparison of open source software hosting facilities]]
 * [[Gitorious]]
@@ -47,10 +48,10 @@ On September 21, 2011 GitHub announced it had reached over 1 million users.<ref>
 * [[SourceForge]]
 
 ==Notes==
-{{Reflist|2}}
+{{refs}}
 
 ==References==
-{{No footnotes|section|date=October 2010}}
+
 {{Refbegin}}
 *{{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
 *{{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
@@ -59,9 +60,8 @@ On September 21, 2011 GitHub announced it had reached over 1 million users.<ref>
 {{Refend}}
 
 ==External links==
-* [http://github.com/ Github] — GitHub homepage
-* [http://pages.github.com/ GitHub Pages] — allow you to publish web content to a github.com subdomain
-* [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow] — introduction to distributed collaboration on GitHub
+* {{official|http://github.com/}}
+* [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow]: introduction to distributed collaboration on GitHub
 
 {{DEFAULTSORT:Github}}
 [[Category:Project hosting websites]]
