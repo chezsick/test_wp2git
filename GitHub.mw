@@ -3,13 +3,13 @@
 | name           = GitHub
 | logo           = [[File:GitHub.svg|140px]]
 | screenshot     = 
-| url            = [https://github.com/ GitHub.com]
+| url            = [http://github.com/ GitHub.com]
 | alexa          = {{increase}} 539 ({{as of|2011|10|2|alt=October 2011}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2011-10-02 }}</ref><!--Updated monthly by OKBot.-->
 | commercial     = Yes
 | type           = collaborative revision control
 | language       = [[English language|English]]
 | registration   = Required
-| owner          = [https://github.com/  GitHub, Inc.]
+| owner          = [http://github.com/  GitHub, Inc.]
 | launch date    = April 2008<ref name="launched">
 {{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 10 April 2008 | first = Chris | last = Wanstrath}}</ref>
 | current status = online
@@ -23,7 +23,7 @@ The site provides social networking functionality such as feeds, followers and t
 
 GitHub also operates a [[pastebin]]-style site called Gist,<ref>[https://gist.github.com/gists Github:gist]</ref> wikis for individual repositories, and web pages that can be edited through a Git repository.
 
-{{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = https://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
+{{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = http://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
 The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang_(programming_language)|Erlang]] by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath, PJ Hyett, and Tom Preston-Werner.
 
@@ -61,7 +61,7 @@ On September 21, 2011 GitHub announced it had reached over 1 million users.<ref>
 {{Refend}}
 
 ==External links==
-* {{official|https://github.com/}}
+* {{official|http://github.com/}}
 * [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow]: introduction to distributed collaboration on GitHub
 
 {{DEFAULTSORT:Github}}
