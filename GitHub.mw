@@ -19,6 +19,29 @@
 
 '''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for software development projects that use the [[Git (software)|Git]] [[revision control]] system. GitHub offers both paid plans for private repositories, and free accounts for open source projects. GitHub is the most popular Git hosting site, and the most popular open source hosting site<ref name='blackduck'>{{cite web|work=[[ReadWriteWeb]]|accessdate=26 May 2012|date=2 Jun 2011|author=Klint Finley|url=http://www.readwriteweb.com/hack/2011/06/github-has-passed-sourceforge.php|title=Github Has Surpassed Sourceforge and Google Code in Popularity}}</ref>.
 
+In July 2012, the company received US$100 Million in [[Series A round|Series A]] funding, primarly from [[Andreessen Horowitz]].<ref name="Tam-2012">{{cite news
+|url = http://online.wsj.com/article/SB10001424052702303292204577517111643094308.html
+|title = Coding Start-Up GitHub Gets $100-Million Boost 
+|author = Tam, Pui-Wing
+|work = [[The Wall Street Journal]]
+|date = July 9, 2012
+|accessdate = July 10, 2012
+}}</ref><ref name="Macmillan-2012">{{cite news
+|url = http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
+|title = GitHub Takes $100M in Largest Investment by Andreessen Horowitz
+|author = Macmillan, Douglas
+|work = [[Bloomberg News]]
+|date = July 9, 2012
+|accessdate = July 10, 2012
+}}</ref><ref name="O'dell-2012">{{cite blog
+|url = http://venturebeat.com/2012/07/09/github-funding-say-what/
+|title = Why GitHub abandoned the bootstrapper’s ship for a $100M Series A
+|author = O'Dell, Jolie
+|work = [[VentureBeat]]
+|date = July 9, 2012
+|accessdate = July 10, 2012
+}}</ref>
+
 ==Description==
 The site provides social networking functionality such as feeds, followers and the network graph to display how developers work on their versions of a repository.
 
