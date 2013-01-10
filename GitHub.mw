@@ -1,5 +1,5 @@
 {{Use dmy dates|date=November 2012}}
-{{primarysources|date=April 2011}}
+{{primary sources|date=April 2011}}
 {{Infobox Website
 | name           = GitHub
 | logo           = [[File:GitHub.svg|140px]]
@@ -37,7 +37,7 @@ In July 2012, the company received US$100 million in [[Series A round|Series A]]
 |work = [[Bloomberg News]]
 |date = 9 July 2012
 |accessdate = 10 July 2012
-}}</ref><ref name="O'dell-2012">{{cite blog
+}}</ref><ref name="O'dell-2012">{{cite web
 |url = http://venturebeat.com/2012/07/09/github-funding-say-what/
 |title = Why GitHub abandoned the bootstrapper’s ship for a $100M Series A
 |author = O'Dell, Jolie
@@ -49,11 +49,11 @@ In July 2012, the company received US$100 million in [[Series A round|Series A]]
 ==Description==
 The site provides social networking functionality such as feeds, followers and the network graph to display how developers work on their versions of a repository.
 
-GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>[https://gist.github.com/gists Github:gist]</ref> that provides wikis for individual repositories and web pages that can be edited through a Git repository, a [[slide hosting service]] called Speaker deck <ref>[https://speakerdeck.com/]</ref>, and a [[web analytics]] platform called Gauges <ref>[http://get.gaug.es/]</ref>.
+GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>[https://gist.github.com/gists Github:gist]</ref> that provides wikis for individual repositories and web pages that can be edited through a Git repository, a [[slide hosting service]] called Speaker deck,<ref>[https://speakerdeck.com/]</ref> and a [[web analytics]] platform called Gauges.<ref>[http://get.gaug.es/]</ref>
 
 {{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = http://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
-The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang_(programming_language)|Erlang]] <ref>https://github.com/blog/112-supercharged-git-daemon</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>[http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ Interview with Chris Wanstrath]</ref> PJ Hyett, and [[Tom Preston-Werner]].
+The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] <ref>https://github.com/blog/112-supercharged-git-daemon</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>[http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ Interview with Chris Wanstrath]</ref> PJ Hyett, and [[Tom Preston-Werner]].
 
 ==Statistics==
 
@@ -62,13 +62,13 @@ GitHub was launched in April 2008.<ref name="launched" />
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[Fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
 
 In another talk delivered at Yahoo! on 27 July 2009, [[Tom Preston-Werner]] announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref> In July 2010, GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
-One Million Repositories, Git Official Blog | date = 25 July 2010}}</ref> In April 2011, GitHub announced that it is hosting 2 million repositories. <ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date = 20 April 2011}}</ref>
+One Million Repositories, Git Official Blog | date = 25 July 2010}}</ref> In April 2011, GitHub announced that it is hosting 2 million repositories.<ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date = 20 April 2011}}</ref>
 
 On 21 September 2011, GitHub announced it had reached over 1 million users.<ref>https://github.com/blog/936-one-million</ref>
 
-On 13 September 2012, on their homepage, GitHub announced it had over 2.1 million users hosting over 3.7 million repositories. <ref>https://github.com/home</ref>
+On 13 September 2012, on their homepage, GitHub announced it had over 2.1 million users hosting over 3.7 million repositories.<ref>https://github.com/home</ref>
 
-On 19 December 2012, GitHub announced it had over 2.8 million users hosting over 4.6 million repositories. <ref>https://github.com/blog/1359-the-octoverse-in-2012</ref>
+On 19 December 2012, GitHub announced it had over 2.8 million users hosting over 4.6 million repositories.<ref>https://github.com/blog/1359-the-octoverse-in-2012</ref>
 
 ==Limitations and constraints==
 According to the terms of service,<ref>{{cite web | url = http://help.github.com/terms-of-service | title = Help.GitHub - Terms of Service | date = 20 February 2012}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
@@ -79,7 +79,7 @@ According to the terms of service,<ref>{{cite web | url = http://help.github.com
 * [[Comparison of open source software hosting facilities]]
 
 ==Notes==
-{{refs}}
+{{reflist}}
 
 ==References==
 
@@ -92,8 +92,10 @@ According to the terms of service,<ref>{{cite web | url = http://help.github.com
 {{Refend}}
 
 ==External links==
-* {{official|http://github.com/}}
+* {{official website|http://github.com/}}
 * [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow]: introduction to distributed collaboration on GitHub
+
+{{Bug tracking systems}}
 
 {{DEFAULTSORT:Github}}
 [[Category:Project management software]]
@@ -101,8 +103,6 @@ According to the terms of service,<ref>{{cite web | url = http://help.github.com
 [[Category:Internet properties established in 2008]]
 [[Category:Revision control]]
 [[Category:Open source software hosting websites]]
-
-{{Bug tracking systems}}
 
 [[ar:GitHub]]
 [[de:GitHub]]
