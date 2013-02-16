@@ -87,6 +87,9 @@ On 16 January 2013, GitHub announced it had passed the 3 million users mark and 
 ==Limitations and constraints==
 According to the terms of service,<ref>{{cite web | url = http://help.github.com/terms-of-service | title = Help.GitHub - Terms of Service | date = 20 February 2012}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
 
+==Software Releases==
+On February 15th, 2013 Github released [http://boxen.github.com Boxen], an open source Mac environment automation tool.  From the Boxen website:  "Boxen is your team's IT robot. It's a dangerously opinionated framework that automates every piece of your development environment. GitHub, Inc. wrote the first version of Boxen (imaginatively called “The Setup”) to help employees start shipping on day one. It's configuration management for everyone: Designers, HR mavens, legal eagles, and developers. We believe that development is production, so we value consistency, predictability, and reproducibility over artisanal, hand-tweaked development environments."
+
 ==See also==
 {{Portal|Free software}}
 
