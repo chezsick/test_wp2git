@@ -92,7 +92,7 @@ In addition, while there is no hard limit, the guideline for the maximum size of
 ==Software releases==
 On February 15, 2013, GitHub released Boxen,<ref>[http://boxen.github.com boxen.github.com]</ref>  an open source Mac environment automation tool.  From the Boxen website:  "Boxen is your team's IT robot. It's a dangerously opinionated framework that automates every piece of your development environment. GitHub, Inc. wrote the first version of Boxen (imaginatively called “The Setup”) to help employees start shipping on day one. It's configuration management for everyone: Designers, HR mavens, legal eagles, and developers. We believe that development is production, so we value consistency, predictability, and reproducibility over artisanal, hand-tweaked development environments."
 
-GitHub also has their standard GUI application available for download (Windows, Mac, Linux) directly from the service's website<ref name="The Site">{{cite web|title=GitHub, Inc|url=www.github.com}}</ref> . Though some purists insist that the original command-line interface is superior, the application tends to be a more approachable avenue for new users.
+GitHub also has their standard GUI application available for download (Windows, Mac, Linux) directly from the service's website<ref name="The Site">{{cite web|title=GitHub, Inc|url=http://www.github.com}}</ref> . Though some purists insist that the original command-line interface is superior, the application tends to be a more approachable avenue for new users.
 
 ==See also==
 {{Portal|Free software}}
