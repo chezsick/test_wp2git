@@ -1,17 +1,17 @@
 {{Use dmy dates|date=November 2012}}
 {{primary sources|date=April 2011}}
-{{Infobox Website
-| name           = '''GitHub'''
+{{Infobox website
+| name           = GitHub
 | logo           = [[File:Octocat,_a_Mascot_of_Github.jpg|140px]]
 | screenshot     = 
-| caption        = The GitHub logo and website
-| url            = [https://github.com/ www.github.com]
+| caption        = The GitHub logo
+| url            = {{URL|github.com}}
 | alexa          = {{DecreasePositive}} 344 ({{as of|2013|6|25|alt=June 2013}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2013-06-25 }}</ref><!--Updated monthly by OKBot.-->
 | commercial     = Yes
 | employees      = 158{{cite web | url = https://github.com/blog/1470-five-years | title = Five years | date = 10 April 2013 | first = Tom | last = Preston-Werner}}
 | type           = collaborative revision control
 | language       = [[English language|English]]
-| registration   = Required
+| registration   = Optional <small>(required for creating and joining projects)</small>
 | owner          = [http://github.com/  GitHub, Inc.]
 | launch date    = April 2008<ref name="launched">
 {{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 10 April 2008 | first = Chris | last = Wanstrath}}</ref>
@@ -100,11 +100,9 @@ GitHub also has their standard GUI application available for download (Windows, 
 * [[Comparison of open-source software hosting facilities]]
 
 == Notes ==
-
 {{reflist|30em}}
 
 ==References==
-
 {{Refbegin}}
 *{{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
 *{{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
@@ -114,8 +112,8 @@ GitHub also has their standard GUI application available for download (Windows, 
 {{Refend}}
 
 ==External links==
-* {{official website|http://github.com/}}
-* [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow]: introduction to distributed collaboration on GitHub
+* {{official website|github.com}}
+* [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow] - introduction to distributed collaboration on GitHub
 
 {{Bug tracking systems}}
 
