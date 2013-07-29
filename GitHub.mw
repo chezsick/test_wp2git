@@ -4,7 +4,8 @@
 | name           = GitHub
 | logo           = [[File:Octocat,_a_Mascot_of_Github.jpg|140px]]
 | screenshot     = 
-| caption        = The GitHub logo
+| logocaption    = The GitHub logo
+| caption        =
 | url            = {{URL|github.com}}
 | alexa          = {{DecreasePositive}} 344 ({{as of|2013|6|25|alt=June 2013}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2013-06-25 }}</ref><!--Updated monthly by OKBot.-->
 | commercial     = Yes
@@ -15,8 +16,8 @@
 | owner          = [http://github.com/  GitHub, Inc.]
 | launch date    = April 2008<ref name="launched">
 {{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 10 April 2008 | first = Chris | last = Wanstrath}}</ref>
-| current status = online
-| slogan         = Social Coding (for all)
+| current status = Online
+| slogan         = ''Social Coding (for all)''
 | headquarters   = San Francisco
 }}
 
