@@ -10,7 +10,7 @@
 | alexa          = {{DecreasePositive}} 344 ({{as of|2013|6|25|alt=June 2013}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2013-06-25 }}</ref><!--Updated monthly by OKBot.-->
 | commercial     = Yes
 | employees      = 158{{cite web | url = https://github.com/blog/1470-five-years | title = Five years | date = 10 April 2013 | first = Tom | last = Preston-Werner}}
-| type           = collaborative revision control
+| type           = [[Collaborative editing|Collaborative]] [[revision control]]
 | language       = [[English language|English]]
 | registration   = Optional <small>(required for creating and joining projects)</small>
 | owner          = [http://github.com/  GitHub, Inc.]
@@ -93,7 +93,7 @@ In addition, while there is no hard limit, the guideline for the maximum size of
 ==Software releases==
 On February 15, 2013, GitHub released Boxen,<ref>[http://boxen.github.com boxen.github.com]</ref> an open source Mac environment automation tool.
 
-GitHub also has their standard GUI application available for download (Windows, Mac, Linux) directly from the service's website.<ref name="The Site">{{cite web|title=GitHub, Inc|url=http://www.github.com}}</ref>
+GitHub also has their standard GUI application available for download ([[Microsoft Windows|Windows]], [[Apple OS X|Mac]], [[Linux]]) directly from the service's website.<ref name="The Site">{{cite web|title=GitHub, Inc|url=http://www.github.com}}</ref>
 
 ==See also==
 {{Portal|Free software}}
