@@ -23,31 +23,6 @@
 
 '''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for software development projects that use the [[Git (software)|Git]] [[revision control]] system. GitHub offers both paid plans for private repositories, and free accounts for open source projects. {{Asof|May 2011}}, GitHub was the most popular open [[source code repository]] site.<ref name='blackduck'>{{cite web|work=[[ReadWriteWeb]]|accessdate=26 May 2012|date=2 June 2011|author=Klint Finley|url=http://www.readwriteweb.com/hack/2011/06/github-has-passed-sourceforge.php|title=Github Has Surpassed Sourceforge and Google Code in Popularity}}</ref>
 
-GitHub Inc. was founded in 2008 and is based in San Francisco, California.<ref name='sanfrancisco'>{{cite web|url=http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940|title=Company Overview of GitHub Inc.}}</ref>
-
-In July 2012, the company received $100 million in [[Series A round|Series A]] funding, primarily from [[Andreessen Horowitz]].<ref name="Tam-2012">{{cite news
-|url = http://online.wsj.com/article/SB10001424052702303292204577517111643094308.html
-|title = Coding Start-Up GitHub Gets $100-Million Boost
-|author = Tam, Pui-Wing
-|work = [[The Wall Street Journal]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref><ref name="Macmillan-2012">{{cite news
-|url = http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
-|title = GitHub Takes $100M in Largest Investment by Andreessen Horowitz
-|author = Macmillan, Douglas
-|work = [[Bloomberg News]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref><ref name="O'dell-2012">{{cite web
-|url = http://venturebeat.com/2012/07/09/github-funding-say-what/
-|title = Why GitHub abandoned the bootstrapper’s ship for a $100M Series A
-|author = O'Dell, Jolie
-|work = [[VentureBeat]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref>
-
 ==Description==
 The site provides [[social networking]] functionality such as feeds, followers and the [[social network graph]] to display how developers work on their versions of a repository.
 
@@ -58,18 +33,6 @@ GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>{
 {{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = https://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
 
 The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] <ref>{{cite web |url= https://github.com/blog/112-supercharged-git-daemon | title = Supercharged git-daemon | work = GitHub blog | date = 13 July 2008 | first = Mojombo}}</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and Tom Preston-Werner.
-
-==Revenue model==
-[[Peter Levine (venture capitalist)|Peter Levine]], general partner at GitHub's investor [[Andreessen Horowitz]], stated that as of July 2012, GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".<ref>
-{{cite web|url=http://peter.a16z.com/2012/07/09/software-eats-software-development/|title=Software Eats Software Development|date=2012-07-09|author=[[Peter Levine (venture capitalist)|Peter Levine]]}}</ref>
-GitHub offers private code hosting<ref>
-{{cite web|url=http://www.businessinsider.com/github-windows-on-the-bay-party-2012-7?op=1|title=Right Before Raising $100 Million, GitHub Rented San Francisco's Ferry Building For A Lavish Party|date=Jul. 9, 2012|publisher=[[Business Insider]]}}</ref>
-starting at $7/month for five repositories, up to $200/month for 125 repositories.<ref>
-{{cite web|url=https://github.com/plans|title=Plans & Pricing|publisher=GitHub|date=2013-02-08}}</ref>
-Instances of GitHub can be licensed to run on private servers inside a company's firewall under the Enterprise plans ($5000/year/20 seats).<ref>
-{{cite web|url=https://enterprise.github.com/pricing|title=github:enterprise|date=2013-02-08}}</ref>
-Another revenue stream is ''GitHub Jobs'' where employers can post job offers for $450/listing.<ref>
-{{cite web|url=https://jobs.github.com/faq|title=GitHub Jobs}}</ref> GitHub's salespeople are not paid on a commission basis.<ref>{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/|title=Cash For Code: Github Raises $100 Million From Andreessen Horowitz|date=7/09/2012|publisher=[[Forbes]]}}</ref>
 
 ==Statistics==
 
@@ -96,6 +59,47 @@ In addition, while there is no hard limit, the guideline for the maximum size of
 On February 15, 2013, GitHub released Boxen,<ref>[https://boxen.github.com boxen.github.com]</ref> an open source Mac environment automation tool.
 
 GitHub also has their standard GUI application available for download ([[Microsoft Windows|Windows]], [[OS X|Mac]], [[Linux]]) directly from the service's website.<ref name="The Site">{{cite web|title=GitHub, Inc|url=https://www.github.com}}</ref>{{Verify credibility|date=July 2013}}
+
+==Company==
+GitHub Inc. was founded in 2008 and is based in San Francisco, California.<ref name='sanfrancisco'>{{cite web|url=http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940|title=Company Overview of GitHub Inc.}}</ref>
+
+In July 2012, the company received $100 million in [[Series A round|Series A]] funding, primarily from [[Andreessen Horowitz]].<ref name="Tam-2012">{{cite news
+|url = http://online.wsj.com/article/SB10001424052702303292204577517111643094308.html
+|title = Coding Start-Up GitHub Gets $100-Million Boost
+|author = Tam, Pui-Wing
+|work = [[The Wall Street Journal]]
+|date = 9 July 2012
+|accessdate = 10 July 2012
+}}</ref><ref name="Macmillan-2012">{{cite news
+|url = http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
+|title = GitHub Takes $100M in Largest Investment by Andreessen Horowitz
+|author = Macmillan, Douglas
+|work = [[Bloomberg News]]
+|date = 9 July 2012
+|accessdate = 10 July 2012
+}}</ref><ref name="O'dell-2012">{{cite web
+|url = http://venturebeat.com/2012/07/09/github-funding-say-what/
+|title = Why GitHub abandoned the bootstrapper’s ship for a $100M Series A
+|author = O'Dell, Jolie
+|work = [[VentureBeat]]
+|date = 9 July 2012
+|accessdate = 10 July 2012
+}}</ref>
+
+===Revenue model===
+[[Peter Levine (venture capitalist)|Peter Levine]], general partner at GitHub's investor [[Andreessen Horowitz]], stated that as of July 2012, GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".<ref>
+{{cite web|url=http://peter.a16z.com/2012/07/09/software-eats-software-development/|title=Software Eats Software Development|date=2012-07-09|author=[[Peter Levine (venture capitalist)|Peter Levine]]}}</ref>
+GitHub offers private code hosting<ref>
+{{cite web|url=http://www.businessinsider.com/github-windows-on-the-bay-party-2012-7?op=1|title=Right Before Raising $100 Million, GitHub Rented San Francisco's Ferry Building For A Lavish Party|date=Jul. 9, 2012|publisher=[[Business Insider]]}}</ref>
+starting at $7/month for five repositories, up to $200/month for 125 repositories.<ref>
+{{cite web|url=https://github.com/plans|title=Plans & Pricing|publisher=GitHub|date=2013-02-08}}</ref>
+Instances of GitHub can be licensed to run on private servers inside a company's firewall under the Enterprise plans ($5000/year/20 seats).<ref>
+{{cite web|url=https://enterprise.github.com/pricing|title=github:enterprise|date=2013-02-08}}</ref>
+Another revenue stream is ''GitHub Jobs'' where employers can post job offers for $450/listing.<ref>
+{{cite web|url=https://jobs.github.com/faq|title=GitHub Jobs}}</ref> GitHub's salespeople are not paid on a commission basis.<ref>{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/|title=Cash For Code: Github Raises $100 Million From Andreessen Horowitz|date=7/09/2012|publisher=[[Forbes]]}}</ref>
+
+===Organizational structure===
+GitHub Inc is a [[flat organization]] with no (middle) managers - or in other words, "everyone is a manager" ([[self-management]]).<ref name='cto-mgmt-style'>{{cite web|url=http://tomayko.com/writings/management-style|title=Show How, Don't Tell What - A Management Style|author=Ryan Tomayko|date=2 April 2013|accessdate=28 August 2013}}</ref> As at [[Valve Corporation]], another flat organization, employees can choose to work on projects that interest them. However, salaries are set by the chief executive, Tom Preston-Werner.<ref name='nyt'>{{cite news|url=http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=0|title=Dreams of 'Open' Everything|author=Quentin Hardy|publisher=[[New York Times]]}}</ref>
 
 ==See also==
 {{Portal|Free software}}
