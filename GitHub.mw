@@ -53,7 +53,7 @@ On 16 January 2013, GitHub announced it had passed the 3 million users mark and 
 
 ==Limitations and constraints==
 According to the terms of service,<ref>{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com - Terms of Service | date = 20 February 2012}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
-In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte. (is this limit for free accounts, or even paid accounts?)<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref>
+In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref>
 
 ==Software releases==
 On February 15, 2013, GitHub released Boxen,<ref>[https://boxen.github.com boxen.github.com]</ref> an open source Mac environment automation tool.
