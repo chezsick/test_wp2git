@@ -53,12 +53,12 @@ On 16 January 2013, GitHub announced it had passed the 3 million users mark and 
 
 ==Limitations and constraints==
 According to the terms of service,<ref>{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com - Terms of Service | date = 20 February 2012}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
-In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref> Also, there is a check for files larger than 100MB in a push; if any such files exist, the push will be rejected.{{cn|date = October 2013}}
+In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref> Also, there is a check for files larger than 100MB in a push; if any such files exist, the push will be rejected.{{citation needed|date = October 2013}}
 
 ==Software releases==
 On February 15, 2013, GitHub released Boxen,<ref>[https://boxen.github.com boxen.github.com]</ref> an open source Mac environment automation tool.
 
-GitHub also has their standard GUI application available for download (for [[Microsoft Windows|Windows]] and [[OS X|Mac]] only) directly from the service's website,<ref name="The Site">{{cite web|title=GitHub, Inc|url=https://help.github.com/articles/set-up-git}}</ref> and provides an open source<ref>[https://github.com/github/android github.com/github/android]</ref> [[Android (operating system)|Android]] app on [[Google Play]]<ref>[https://play.google.com/store/apps/details?id=com.github.mobile GitHub Google Play Android App]</ref>.
+GitHub also has their standard GUI application available for download (for [[Microsoft Windows|Windows]] and [[OS X|Mac]] only) directly from the service's website,<ref name="The Site">{{cite web|title=GitHub, Inc|url=https://help.github.com/articles/set-up-git}}</ref> and provides an open source<ref>[https://github.com/github/android github.com/github/android]</ref> [[Android (operating system)|Android]] app on [[Google Play]].<ref>[https://play.google.com/store/apps/details?id=com.github.mobile GitHub Google Play Android App]</ref>
 
 ==Company==
 GitHub Inc. was founded in 2008 and is based in San Francisco, California.<ref name='sanfrancisco'>{{cite web|url=http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940|title=Company Overview of GitHub Inc.}}</ref>
