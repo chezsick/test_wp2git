@@ -3,7 +3,7 @@
 {{Infobox website
 | name           = GitHub
 | logo           = [[File:GitHub logo 2013.svg|140px]]
-| screenshot     = 
+| screenshot     =
 | logocaption    = The GitHub logo
 | caption        =
 | url            = {{URL|https://github.com}}
@@ -35,7 +35,6 @@ GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>{
 The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] <ref>{{cite web |url= https://github.com/blog/112-supercharged-git-daemon | title = Supercharged git-daemon | work = GitHub blog | date = 13 July 2008 | first = Mojombo}}</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
 
 ==Statistics==
-
 GitHub was launched in April 2008.<ref name="launched" />
 
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
@@ -103,7 +102,6 @@ GitHub Inc is a [[flat organization]] with no (middle) managers - or in other wo
 
 ==See also==
 {{Portal|Free software}}
-
 * [[Gitorious]]
 * [[Comparison of open-source software hosting facilities]]
 
@@ -112,11 +110,11 @@ GitHub Inc is a [[flat organization]] with no (middle) managers - or in other wo
 
 ==References==
 {{Refbegin}}
-*{{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
-*{{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
-*{{cite news | url = http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html | title = GitHub unites Version Control with the Pastie | work = [[The Washington Post]] | first = Rob | last = Olson | date = 22 July 2008}}
-*{{cite web | url = http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html | title = GitHub Officially Launches: Git Hosting A-Go-Go! | work = Ruby Inside | first = Peter | last = Cooper | date = 10 April 2008}}
-*{{cite web | url = http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940 | title = Company Overview of GitHub Inc.}}
+* {{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
+* {{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
+* {{cite news | url = http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html | title = GitHub unites Version Control with the Pastie | work = [[The Washington Post]] | first = Rob | last = Olson | date = 22 July 2008}}
+* {{cite web | url = http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html | title = GitHub Officially Launches: Git Hosting A-Go-Go! | work = Ruby Inside | first = Peter | last = Cooper | date = 10 April 2008}}
+* {{cite web | url = http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940 | title = Company Overview of GitHub Inc.}}
 {{Refend}}
 
 ==External links==
@@ -125,7 +123,6 @@ GitHub Inc is a [[flat organization]] with no (middle) managers - or in other wo
 
 {{Bug tracking systems}}
 
-{{DEFAULTSORT:Github}}
 [[Category:Bug and issue tracking software]]
 [[Category:Project management software]]
 [[Category:Computing websites]]
