@@ -52,6 +52,8 @@ On 16 January 2013, GitHub announced it had passed the 3 million users mark and 
 
 On 10 April 2013, GitHub announced it had 3.5 million users and was now hosting more than 6 million repositories.<ref>{{cite web|url=https://github.com/blog/1470-five-years |title=Five Years |publisher=GitHub.com |date=2013-04-10 |accessdate=2013-11-29}}</ref>
 
+On 23 December 2013, GitHub announced it had reached 10 million repositories.<ref>cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
+
 ==Limitations and constraints==
 According to the terms of service,<ref name="terms-of-service">{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com    -Terms of Service | date = 30 Octobre 2013}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
 In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref> Also, there is a check for files larger than 100MB in a push; if any such files exist, the push will be rejected.<ref name="terms-of-service"/>
