@@ -35,7 +35,7 @@ GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>{
 The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]]<ref>{{cite web |url= https://github.com/blog/112-supercharged-git-daemon | title = Supercharged git-daemon | work = GitHub blog | date = 13 July 2008 | first = Mojombo}}</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
 
 ==Statistics==
-GitHub was launched in April 2008.<ref name="launched" /> Development of the GitHub platform began on October 19, 2007.<ref name='githuboneyear'>{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=October 19 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> 
+GitHub was launched in April 2008.<ref name="launched" /> Development of the GitHub platform began on October 19, 2007.<ref name='githuboneyear'>{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=October 19, 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref>
 
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
 
@@ -55,7 +55,7 @@ On 10 April 2013, GitHub announced it had 3.5 million users and was now hosting 
 On 23 December 2013, GitHub announced it had reached 10 million repositories.<ref>{{cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
 
 ==Limitations and constraints==
-According to the terms of service,<ref name="terms-of-service">{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com    -Terms of Service | date = 30 Octobre 2013}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
+According to the terms of service,<ref name="terms-of-service">{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com    -Terms of Service | date = 30 October 2013}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
 In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref> Also, there is a check for files larger than 100MB in a push; if any such files exist, the push will be rejected.<ref name="terms-of-service"/>
 
 ==Software releases==
