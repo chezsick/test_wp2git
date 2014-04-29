@@ -45,6 +45,13 @@ The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (
 ==Statistics==
 GitHub was launched in April 2008.<ref name="launched" /> Development of the GitHub platform began on October 19, 2007.<ref name='githuboneyear'>{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=October 19, 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref>
 
+The meaning of “Git”- An open-source version control system→ started by Linus Trovalds. 
+
+The “Hub”- The center around which all things involving Git revolve effective→ ergo “GitHub.”
+
+Version Control Systems (VCS)- records changes to a file or set of files over time so that one can recall specific versions later.
+
+
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
 
 In another talk delivered at Yahoo! on 27 July 2009, [[Tom Preston-Werner]] announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref> In July 2010, GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
