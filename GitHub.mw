@@ -51,14 +51,12 @@ The “Hub”- The center around which all things involving Git revolve effectiv
 
 Version Control Systems (VCS)- records changes to a file or set of files over time so that one can recall specific versions later.
 
-
 In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
 
 In another talk delivered at Yahoo! on 27 July 2009, [[Tom Preston-Werner]] announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref> In July 2010, GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
 One Million Repositories, Git Official Blog | date = 25 July 2010}}</ref> In April 2011, GitHub announced that it is hosting 2 million repositories.<ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date = 20 April 2011}}</ref>
 
 {{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = https://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
-
 
 On 21 September 2011, GitHub announced it had reached over 1 million users.<ref>{{cite web|url=https://github.com/blog/936-one-million |title=One Million&nbsp;· GitHub |publisher=Github.com |date=2011-09-21 |accessdate=2013-02-26}}</ref>
 
