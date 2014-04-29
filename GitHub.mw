@@ -6,7 +6,7 @@
 | logo           = [[File:GitHub logo 2013.svg|140px]]
 | screenshot     =
 | logocaption    = The GitHub logo
-| caption        =
+| caption        =  
 | url            = {{URL|https://github.com}}
 | alexa          = {{DecreasePositive}} 183 ({{as of|2014|4|1|alt=April 2014}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2014-04-01 }}</ref><!--Updated monthly by OKBot.-->
 | commercial     = Yes
@@ -44,7 +44,7 @@ The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (
 ==Statistics==
 GitHub was launched in April 2008.<ref name="launched" /> Development of the GitHub platform began on October 19, 2007.<ref name='githuboneyear'>{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=October 19, 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref>
 
-The meaning of “Git”- An open-source version control system→ started by Linus Trovalds. 
+The meaning of “Git”- An open-source version control system→ started by Linus Torvalds. 
 
 The “Hub”- The center around which all things involving Git revolve effective→ ergo “GitHub.”
 
