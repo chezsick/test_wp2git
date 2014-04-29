@@ -131,43 +131,6 @@ Instances of GitHub can be licensed to run on private servers inside a company's
 Another revenue stream is ''GitHub Jobs'' where employers can post job offers for $450/listing.<ref>
 {{cite web|url=https://jobs.github.com/faq|title=GitHub Jobs}}</ref> GitHub's salespeople are not paid on a commission basis.<ref>{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/|title=Cash For Code: Github Raises $100 Million From Andreessen Horowitz|date=7/09/2012|publisher=[[Forbes]]}}</ref>
 
-Here is a more complete breakdown of GitHub's pricing structure. 
-
-'''Personal'''
-* Free
-* o	Unlimited collaborators/public repositories, 0 private repositories
-* Micro = $7/month
-* o	Unlimited collaborators/public repositories, 5 private repositories
-* Small = $12/month
-* o	Unlimited collaborators/public repositories, 10 private repositories
-* Medium = $22/month
-* o	Unlimited collaborators/public repositories, 20 private repositories
-* Large = $50/month
-* o	Unlimited collaborators/public repositories, 50 private repositories
-
-'''Organizational'''
-* Free
-* o	Unlimited members/public repositories, no private repositories
-* Bronze = $25/month
-* o	Unlimited members/ public repositories, 10 private repositories
-* Silver = $50/ month
-* o	Unlimited members/ public repositories, 20 private repositories
-* Gold = $100/month
-* o	Unlimited members/public repositories, 50 private repositories
-* Platinum = $200/month
-* o	Unlimited members/public repositories, 125 private repositories
-
-
-'''GitHub Enterprise'''
-* 1-20 users     = $5,000 per year
-* 21-40 users   = $10,000 per year
-* 41-60 users   = $15,000 per year
-* 61- 80 users  = $ 20,000 per year
-* 81-100 users = $ 25,000 per year
-* 
-
-      and so forth.
-
 ===Organizational structure===
 GitHub, Inc. is a [[flat organization]] with no middle managers; in other words, "everyone is a manager" ([[Workers' self-management|self-management]]).<ref name='cto-mgmt-style'>{{cite web|url=http://tomayko.com/writings/management-style|title=Show How, Don't Tell What - A Management Style|author=Ryan Tomayko|date=2 April 2013|accessdate=28 August 2013}}</ref> Employees can choose to work on projects that interest them ([[open allocation]]). However, salaries are set by the chief executive, [[Tom Preston-Werner]].<ref name='nyt'>{{cite news|url=http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=0|title=Dreams of 'Open' Everything|author=Quentin Hardy|publisher=New York Times}}</ref>
 
