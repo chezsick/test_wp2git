@@ -68,22 +68,6 @@ On 10 April 2013, GitHub announced it had 3.5 million users and was now hosting 
 
 On 23 December 2013, GitHub announced it had reached 10 million repositories.<ref>{{cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
 
-==GitHub Lingo==
-
-Here are some terms that one will come across when using GitHub:
-
-'''Repository'''- a place where things are stored; a location where all files for a particular project are stored. Usually abbreviated as “repo.” 
-
-'''Forking'''- creating a new project based off of one that already existed, allows you to edit and release the project as a new repository. 
-
-'''Pull Request'''- request to get recognition from the original repository developers after forking
-
-'''Changelogs'''- log of all changes made on a collaborative project.
-
-'''Commit'''-takes a snapshot of your repository. Acts as a checkpoint for your work. 
-
-'''Collaborator'''- GitHub users given write access to one or more of your repositories.
-
 ==Limitations and constraints==
 According to the terms of service,<ref name="terms-of-service">{{cite web | url = https://help.github.com/terms-of-service | title = help.github.com    -Terms of Service | date = 30 October 2013}}</ref> if an account's bandwidth usage significantly exceeds the average of other GitHub customers, the account's file hosting service may be immediately disabled or throttled until bandwidth consumption is reduced.
 In addition, while there is no hard limit, the guideline for the maximum size of a repository is one gigabyte.<ref>{{cite web|url=https://help.github.com/articles/what-is-my-disk-quota|title=help.github.com - What is my disk quota?|date=23 March 2013}}</ref> Also, there is a check for files larger than 100MB in a push; if any such files exist, the push will be rejected.<ref name="terms-of-service"/>
