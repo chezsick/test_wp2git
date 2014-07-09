@@ -1,8 +1,3 @@
-{{multiple issues|
-{{citation style|date=April 2014}}
-{{primary sources|date=April 2011}}
-}}
-
 {{Use dmy dates|date=November 2012}}
 
 {{Infobox website
@@ -12,144 +7,106 @@
 | logocaption    = The GitHub logo
 | caption        =  
 | url            = {{URL|https://github.com}}
-| alexa          = {{DecreasePositive}} 183 ({{as of|2014|4|1|alt=April 2014}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/GitHub.com |title= Github.com Site Info | publisher= [[Alexa Internet]] |accessdate= 2014-04-01 }}</ref><!--Updated monthly by OKBot.-->
+| alexa          = {{DecreasePositive}} 168 ({{as of|2014|7|9|alt=July 2014}})<ref name="alexa">{{cite web|url=http://www.alexa.com/siteinfo/GitHub.com |title=Github.com Alexa Ranking | publisher=Alexa Internet|accessdate=2014-07-09 }}</ref>
 | commercial     = Yes
-| employees      = 158{{cite web | url = https://github.com/blog/1470-five-years | title = Five years | date = 10 April 2013 | first = Tom | last = Preston-Werner}}
+| employees      = {{ubl|{{increase}}230 (2014)|209 (2013)}}{{cite web|url=http://techcrunch.com/2013/09/11/github-hits-the-4m-user-mark-as-it-looks-beyond-developers-for-its-next-stage-of-growth/ title=GitHub Hits The 4M User Mark As It Looks Beyond Developers For Its Next Stage Of Growth date=2013 Sept 11 |first1=Ingrid |last1=Lunden |quote=The company was already profitable starting in 2012, but he said that today it is “not profitable at this current moment,” as it used the $100 million “to grow.” GitHub now has 209 employees.}}
+
+158{{cite web | url = https://github.com/blog/1470-five-years | title = Five years | date=10 April 2013 | first = Tom | last = Preston-Werner}}
 | type           = [[Collaborative editing|Collaborative]] [[revision control]]
 | language       = [[English language|English]]
 | registration   = Optional <small>(required for creating and joining projects)</small>
 | owner          = [https://github.com/  GitHub, Inc.]
 | programming language      = [[Ruby (programming language)|Ruby]], [[JavaScript]]
-| launch date    = April 2008<ref name="launched">
-{{cite web | url = https://github.com/blog/40-we-launched | title = We Launched | work = GitHub | date = 10 April 2008 | first = Chris | last = Wanstrath}}</ref>
+| launch date    = April 2008<ref name="pastie">{{cite web|url = http://www.sitepoint.com/github-gist-is-pastie-on-steroids/ |title=GitHub Gist is Pastie on Steroids | date=July 24|year=2008|first1=Josh|last1=Catone}}</ref>
 | current status = Online
 | slogan         = ''Build software better, together''
 | headquarters   = San Francisco
 }}
 
-'''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for software development projects that use the [[Git (software)|Git]] [[revision control]] system. GitHub offers both paid plans for private repositories, and free accounts for [[open source]] projects. The site was launched in 2008 by [[Tom Preston-Werner]], Chris Wanstrath, and PJ Hyett.
+'''GitHub''' is a [[Shared web hosting service|web-based hosting service]] for software development projects which uses the [[Git (software)|Git]] [[revision control]] system. GitHub offers both paid plans for private repositories, and free accounts for [[open source]] projects.  GitHub has over 3.4 million users<ref name="ucc">{{cite web|last1=Whitaker|first1=Marisa|title=Former UC student establishes a celebrated website in GitHub that simplifies coding collaboration for millions of users|url=http://magazine.uc.edu/favorites/web-only/wanstrath.html|publisher=University of Cincinnati|accessdate=2014-07-09|date=April|year=2014}}</ref>, making it the largest code host in the world.<ref>{{cite journal|author1=Georgios Gousios|author2=Bogdan Vasilescu|author3=Alexander Serebrenik|author4=Andy Zaidman|title=Lean GHTorrent: GitHub Data on Demand|page=1|url=http://flosshub.org/sites/flosshub.org/files/lean-ghtorrent.pdf|accessdate=9 July 2014|publisher=Delft University of Technology & †Eindhoven University of Technology|location=The Netherlands|quote=During recent years, GITHUB (2008) has become the largest code host in the world.}}</ref>
 
-==Description==
-GitHub is home to over 13.8 million repositories, making it the largest code host in the world.<ref>{{cite web|website=https://github.com/features|date=27 June 2014|accessdate=27 June 2014}}</ref>
+Github has become such a staple amongst the open-source development community that many developers have begun considering it a replacement for a conventional resume and some employers require applications to provide a link to and have an active contributing Github account.<ref name="gitresume">{{cite web|url=http://code.dblock.org/github-is-your-new-resume |title=Github Is Your New Resume |date=July 14|year=2011|accessdate=2014-07-09 |last1=Doubrovkine |first1=Daniel}}</ref><ref name="githubisresume">{{cite web|url=http://anti-pattern.com/github-is-your-resume-now |title=Github Is Your Resume Now |date=June 17 |year=2012 |accessdate=2014-07-09}}</ref>
+
+== Github Enterprises ==
+Github Enterprises, the company behind Github.com, is a successful start-up business backed by venture-capital investments.  The company received it's first major investment of $100M, made by a single investor in 2012, Andreessen Horowitz.<ref name="hugeinvestment">{{cite web|url=http://techcrunch.com/2012/07/09/github-pours-energies-into-enterprise-raises-100-million-from-power-vc-andreesen-horowitz/ |title=GitHub Pours Energies into Enterprise – Raises $100 Million From Power VC Andreessen Horowitz |date=July 9|year=2012 |first1=Alex |last1=Williams |publisher=Tech Crunch |quote=Andreessen Horowitz is investing an eye-popping $100 million into GitHub}}</ref>
+
+== Services ==
+
+=== Github ===
+Development of the GitHub platform began on 19 October 2007.<ref name="beginning">{{cite web|url=http://blogs.esri.com/esri/arcgis/2014/02/10/github-ceo-and-co-founder-chris-wanstrath-keynoting-esris-devsummit/ |title=GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit! |first1=Kristina |last1=Weis |date=2014 February 10 | quote=in 2007 they began working on GitHub as a side project}}</ref><ref name="githuboneyear">{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=October 19|year=2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> The site was launched in April 2008 by [[Tom Preston-Werner]], Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period.<ref name="pastie"/>.  
+
+Projects on Github can be accessed and manipulated using a command-line interface and works with all of the standard git commands.  Github also allows registered and non-registered users to browse public repositories on the site.  And multiple desktop clients have been created by Github and other third-parties which integrate with the platform.
 
 The site provides [[social networking]] functionality such as feeds, followers, wikis (using gollum [[Wiki software]]) and the [[social network graph]] to display how developers work on their versions of a repository.
 
-A user must create a profile before using the site. It allows individuals to participate in live conversations and chats to discuss, manage, or review changes to code.
-GitHub is mostly used for code, but also commonly used for non-code types of files like Final Cut or Word documents.
+A user must create a profile in order to contribute content to the site but public repositories can be browsed and downloaded by anyone. With a registered user account users are able to discuss, manage, create repositories, contribute to others repositories, and review changes to code.
 
-One can share this code with co-workers, friends, classmates or strangers. Users revise projects, edit other people’s work, and interact with other members.
-It can be used among co-workers to edit or contribute to the same documents or websites since a version control application allows multiple people to work simultaneously without work getting overwritten or erased.
+GitHub also operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> which is for hosting code snippets; whereas Github would be for hosting larger projects.  A [[slide hosting service]] called Speaker Deck.
 
-[[File:Octocat, a Mascot of Github.jpg|thumb|Octocat, Logo]]
-
-GitHub also operates other services: a [[pastebin]]-style site called Gist<ref>{{cite web|url=https://gist.github.com/gists |title=Github:gist |publisher=Gist.github.com |date= |accessdate=2013-02-26}}</ref> that provides wikis for individual repositories and web pages that can be edited through a Git repository, a [[slide hosting service]] called Speaker Deck.<ref>{{cite web|url=https://speakerdeck.com/ |title=Speaker Deck website |publisher=Speakerdeck.com |date= |accessdate=2013-02-26}}</ref>
-
-The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]]<ref>{{cite web |url= https://github.com/blog/112-supercharged-git-daemon | title = Supercharged git-daemon | work = GitHub blog | date = 13 July 2008 | first = Mojombo}}</ref> by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref>{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
-
-==Statistics==
-GitHub was launched in April 2008.<ref name="launched" /> Development of the GitHub platform began on 19 October 2007.<ref name='githuboneyear'>{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=19 October 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> The name is a reference to [[Git (software)|git]], an open-source version control system started by [[Linus Torvalds]].
+The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. (previously known as Logical Awesome) developers Chris Wanstrath,<ref name="wanstrathinterview">{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
 
 Version Control Systems (VCS)- records changes to a file or set of files over time so that one can recall specific versions later.
 
-In a talk at [[Yahoo!]] headquarters on 24 February 2009, GitHub team members announced that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. On 5 July 2009, a Github Blog post announced they reached the 100,000 users mark.<ref>{{cite web | url = https://github.com/blog/455-100-000-users | title = 100,000 Users!, Git Official Blog | date = 5 July 2009}}</ref>
+==== Scope ====
+GitHub is mostly used for code, but also commonly used for non-code types of files like Final Cut or Word documents.
 
-In another talk delivered at Yahoo! on 27 July 2009, [[Tom Preston-Werner]] announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date = 3 November 2009}}</ref> In July 2010, GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
-One Million Repositories, Git Official Blog | date = 25 July 2010}}</ref> In April 2011, GitHub announced that it is hosting 2 million repositories.<ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date = 20 April 2011}}</ref>
+In addition to source-code, Github supports the following formats and features:
 
-{{As of|2010|1}}, GitHub is operated under the name GitHub, Inc.<ref>{{cite web | url = https://github.com/blog/589-new-year-new-company | title = New Year, New Company | work = GitHub blog | date = 21 January 2010 | first = PJ | last = Hyett}}</ref>
+* 3D render files which can be previewed using a new integrated STL file viewer which displays the files on a 3D canvas.<ref name="3d">{{cite web|url=http://makezine.com/2013/04/09/github-now-supports-stl-file-viewing/ | title=GitHub Now Supports STL File Viewing |date=2013 April 9|last1=Weinhoffer |first1=Eric}} </ref> The viewer is powered by [[WebGL]] and [[Three.js]].
+* Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
+* Nested task-lists
+* Documentation and Wiki's
+* Small websites can be hosted from public repositories on Github.  The URL format is http://projectname.github.io.  And can be created by starting a repository formatted as projectname.io
+* Code Snippets (using the Gist subdomain)
+* Issue tracking and feature requests
+* Visualization of geospatial data
+* [[Gantt]] charts
 
-On 21 September 2011, GitHub announced it had reached over 1 million users.<ref>{{cite web|url=https://github.com/blog/936-one-million |title=One Million&nbsp;· GitHub |publisher=Github.com |date=2011-09-21 |accessdate=2013-02-26}}</ref>
+=== Gist ===
+Gist builds upon that idea by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each “gist” is its own Git repository, multiple code snippets can be contained in a single paste and they and be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so pastes can become more like mini-projects.
 
-On 13 September 2012, on their homepage, GitHub announced it had over 2.1 million users hosting over 3.7 million repositories.<ref>{{cite web|url=https://github.com/home |title=GitHub&nbsp;· Build software better, together |publisher=Github.com |date= |accessdate=2013-02-26}}</ref>
+<!-- Placeholder for potential section about Speaker Deck
+=== Speaker Deck ===
+-->
 
-On 19 December 2012, GitHub announced it had over 2.8 million users hosting over 4.6 million repositories <ref>{{cite web|url=https://github.com/blog/1359-the-octoverse-in-2012 |title=The Octoverse in 2012&nbsp;· GitHub |publisher=Github.com |date=2012-12-19 |accessdate=2013-02-26}}</ref>
+=== Jobs ===
+One of Github's primary revenue streams is ''GitHub Jobs''<ref name="githubjobsapi">{{cite web|url=http://www.programmableweb.com/api/github-jobs |title=Github Jobs API}}</ref>where employers can post job offers for $450/listing. GitHub's salespeople are not paid on a commission basis.<ref name="forbes">{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/ |title=Github Raises $100 Million From Andreessen Horowitz |date=July 9 |year=2012 |publisher=Forbes}}</ref>
 
-On 16 January 2013, GitHub announced it had passed the 3 million users mark and was then hosting more than 5 million repositories.<ref>{{cite web|url=http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ |title=Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories |publisher=TheNextWeb.com |date=2013-04-11 |accessdate=2013-04-11}}</ref>
-
-On 10 April 2013, GitHub announced it had 3.5 million users and was now hosting more than 6 million repositories.<ref>{{cite web|url=https://github.com/blog/1470-five-years |title=Five Years |publisher=GitHub.com |date=2013-04-10 |accessdate=2013-11-29}}</ref>
-
-On 23 December 2013, GitHub announced it had reached 10 million repositories.<ref>{{cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
-
-==Software releases==
-On 15 February 2013, GitHub released Boxen,<ref>[https://boxen.github.com boxen.github.com]</ref> an open source Mac environment automation tool.
-
-On 26 February 2014 GitHub released the beta version of a text editor called [[Atom_(text_editor)|Atom]] for Mac OSX.<ref>[http://blog.atom.io/2014/02/26/introducing-atom.html]</ref> Windows and Linux versions are also in development. Atom, "the text editor we've always wanted", is stated by GitHub to be "modern, approachable, and hackable to the core."<ref>[https://atom.io/]</ref> 
-
-GitHub also has their standard GUI application available for download (for [[Microsoft Windows|Windows]] and [[OS X|Mac]] only) directly from the service's website,<ref name="The Site">{{cite web|title=GitHub, Inc|url=https://help.github.com/articles/set-up-git}}</ref> and provides an open source<ref>[https://github.com/github/android github.com/github/android]</ref> [[Android (operating system)|Android]] app on [[Google Play]].<ref>[https://play.google.com/store/apps/details?id=com.github.mobile GitHub Google Play Android App]</ref>
-
-==Company==
-GitHub, Inc. was founded in 2008 and is based in San Francisco, California.<ref name='sanfrancisco'>{{cite web|url=http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940|title=Company Overview of GitHub Inc.}}</ref>
-
-In July 2012, the company received $100 million funding, primarily from [[Andreessen Horowitz]].<ref name="Tam-2012">{{cite news
-|url = http://online.wsj.com/article/SB10001424052702303292204577517111643094308.html
-|title = Coding Start-Up GitHub Gets $100-Million Boost
-|author = Tam, Pui-Wing
-|work = [[The Wall Street Journal]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref><ref name="Macmillan-2012">{{cite news
-|url = http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
-|title = GitHub Takes $100M in Largest Investment by Andreessen Horowitz
-|author = Macmillan, Douglas
-|work = [[Bloomberg News]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref><ref name="O'dell-2012">{{cite web
-|url = http://venturebeat.com/2012/07/09/github-funding-say-what/
-|title = Why GitHub abandoned the bootstrapper’s ship for a $100M Series A
-|author = O'Dell, Jolie
-|work = [[VentureBeat]]
-|date = 9 July 2012
-|accessdate = 10 July 2012
-}}</ref>
-
-===Revenue model===
-[[Peter Levine (venture capitalist)|Peter Levine]], general partner at GitHub's investor [[Andreessen Horowitz]], stated that as of July 2012, GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".<ref>
-{{cite web|url=http://peter.a16z.com/2012/07/09/software-eats-software-development/|title=Software Eats Software Development|date=2012-07-09|author=[[Peter Levine (venture capitalist)|Peter Levine]]}}</ref>
-GitHub offers private code hosting<ref>
-{{cite web|url=http://www.businessinsider.com/github-windows-on-the-bay-party-2012-7?op=1|title=Right Before Raising $100 Million, GitHub Rented San Francisco's Ferry Building For A Lavish Party|date=9 July 2012|publisher=[[Business Insider]]}}</ref>
-starting at $7/month for five repositories, up to $200/month for 125 repositories.<ref>
-{{cite web|url=https://github.com/plans|title=Plans & Pricing|publisher=GitHub|date=2013-02-08}}</ref>
-Instances of GitHub can be licensed to run on private servers inside a company's firewall under the Enterprise plans ($5000/year/20 seats).<ref>
-{{cite web|url=https://enterprise.github.com/pricing|title=github:enterprise|date=2013-02-08}}</ref>
-Another revenue stream is ''GitHub Jobs'' where employers can post job offers for $450/listing.<ref>
-{{cite web|url=https://jobs.github.com/faq|title=GitHub Jobs}}</ref> GitHub's salespeople are not paid on a commission basis.<ref>{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/|title=Cash For Code: Github Raises $100 Million From Andreessen Horowitz|date=7/09/2012|publisher=[[Forbes]]}}</ref>
-
-==Criticism==
-
-===Allegations of harassment and departure of an employee ===
-In March 2014 a former female developer, Julie Ann Horvath, suggested a discriminatory environment at GitHub. In an interview to [[TechCrunch]] she complained about the start-up's culture, leaving the firm after repeated harassment from a (at first not publicly identified) founder's non-employee wife and witnessing male co-workers "gawking" at some female co-workers who were hula-hooping.<ref>[http://valleywag.gawker.com/github-engineer-quits-after-alleging-gender-harassment-1544559154 GitHub Engineer Quits After Alleging Gender Harassment]. Valleywag.gawker.com. Retrieved on 2014-04-20.</ref><ref>{{cite web | url=http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/ | title=Julie Ann Horvath Describes Sexism And Intimidation Behind Her GitHub Exit | publisher=[[TechCrunch]] | date=17 March 2014 | accessdate=17 March 2014 | author=Alex Wilhelm, Alexia Tsotsis}}</ref><ref name=arstechnica>{{cite web | url=http://arstechnica.com/business/2014/03/github-puts-founder-on-leave-kicks-wife-out-of-office-after-harassment-claim/ | title=GitHub puts founder on leave, kicks wife out of office after harassment claim | publisher=Ars Technica | work=Mar 17 2014 | accessdate=17 March 2014 | author=Jon Brodkin}}</ref> GitHub [[CEO]] and cofounder Chris Wanstrath issued a statement personally apologizing to Horvath and noting that the relevant founder had been put on leave and his wife was no longer permitted in the office.<ref>{{cite web | url=https://github.com/blog/1800-update-on-julie-horvath-s-departure | title=Update on Julie Horvath's Departure | publisher=GitHub | date=16 March 2014 | accessdate=17 March 2014 | author=Chris Wanstrath}}</ref> On 17 March, [[Gawker]] reported that the unidentified married couple were co-founder Tom Preston-Werner and his wife Theresa.
-<ref name=arstechnica/><ref>{{cite web | url=http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104 | title=Meet the Married Duo Behind Tech's Biggest New Harassment Scandal | publisher=Gawker | work=Valley Wag | date=17 March 2014 | accessdate=17 March 2014 | author=Sam Biddle and Nitasha Tiku}}</ref>  An investigation found "no evidence to support the claims against Tom and his wife of sexual or gender-based harassment or retaliation, or of a sexist or hostile work environment." It did, however, find "evidence of mistakes and errors of judgment." In light of this, Preston-Werner resigned from GitHub in April 2014.<ref>[https://github.com/blog/1823-results-of-the-github-investigation Results of the GitHub Investigation · GitHub]. Github.com (2014-04-21). Retrieved on 2014-06-07.</ref>
-<ref>{{cite news|url=http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation|author=Claire Cain Miller|date=April 21, 2014|title=GitHub Founder Resigns After Investigation|work=[[New York Times]]}}</ref>
+== Popularity ==
+* ''24 February 2009'', in a talk at [[Yahoo!]] headquarters GitHub team members announced in a talk at [[Yahoo!]] headquarters on that during the first year that GitHub was online, it accumulated 46,000 public repositories, 17,000 of them in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 merged. 
+* ''5 July 2009'', a Github Blog post announced they reached the 100,000 users mark. In another talk delivered at Yahoo! on 27 July 2009, [[Tom Preston-Werner]] announced that the numbers had risen to 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web | url = http://wiki.dandascalescu.com/essays/pita-threshold | title = The PITA Threshold: GitHub vs. CPAN | work = Dan Dascalescu's Wiki | first = Dan | last = Dascalescu | date=3 November 2009}}</ref> In July 2010, GitHub announced that it hosts 1 million repositories.<ref>{{cite web | url = https://github.com/blog/685-one-million-repositories | title =
+One Million Repositories, Git Official Blog | date=25 July 2010}}</ref> In April 2011, GitHub announced that it is hosting 2 million repositories.<ref>{{cite web | url = https://github.com/blog/841-those-are-some-big-numbers | title = Those are some big numbers, Git Official Blog | date=20 April 2011}}</ref>
+* ''16 January 2013'', GitHub announced it had passed the 3 million users mark and was then hosting more than 5 million repositories.<ref>{{cite web|url=http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ |title=Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories |publisher=TheNextWeb.com |date=2013-04-11 |accessdate=2013-04-11}}</ref>
+* ''July 2012'', [[Peter Levine (venture capitalist)|Peter Levine]], general partner at GitHub's investor [[Andreessen Horowitz]], stated that GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".<ref>{{cite web|url=http://peter.a16z.com/2012/07/09/software-eats-software-development/|title=Software Eats Software Development|date=2012-07-09|author=[[Peter Levine (venture capitalist)|Peter Levine]]}}</ref>
 
 ==See also==
 {{Portal|Free software}}
-* [[Gitorious]]
-* [[Comparison of open-source software hosting facilities]]
-
-==Notes==
-{{reflist|30em}}
+* [[Bug tracking system]]
+* [[Collaborative intelligence]]
+* [[Collaborative innovation network]]
+* [[Commons-based peer production]]
+* [[Computer programmers]]
+* [[git(software)]]
+* [[Linux]]
+* [[Open source]]
+* [[Open source license]]
+* [[Request Tracker]]
+* [[Shared source]]
 
 ==References==
-{{Refbegin}}
-* {{cite web | url = http://www.crunchbase.com/company/github | title = GitHub Company Profile | work = [[CrunchBase]]}}
-* {{cite web | url = http://arstechnica.com/journals/linux.ars/2008/07/17/canonicals-launchpad-gets-a-visual-refresh | title = Canonical's Launchpad gets a visual refresh | work = [[Ars Technica]] | first = Ryan | last = Paul | date = 17 July 2008}}
-* {{cite news | url = http://www.washingtonpost.com/wp-dyn/content/article/2008/07/22/AR2008072200368.html | title = GitHub unites Version Control with the Pastie | work = [[The Washington Post]] | first = Rob | last = Olson | date = 22 July 2008}}
-* {{cite web | url = http://www.rubyinside.com/github-officially-launches-git-hosting-a-go-go-853.html | title = GitHub Officially Launches: Git Hosting A-Go-Go! | work = Ruby Inside | first = Peter | last = Cooper | date = 10 April 2008}}
-* {{cite web | url = http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=106619940 | title = Company Overview of GitHub Inc.}}
-{{Refend}}
+{{reflist|30em}}
 
-==External links==
-* {{official website|https://github.com}}
-* [http://www.eqqon.com/index.php/Collaborative_Github_Workflow Collaborative GitHub Workflow] - introduction to distributed collaboration on GitHub
-
-{{Bug tracking systems}}
-
-[[Category:GitHub| ]]
 [[Category:Bug and issue tracking software]]
-[[Category:Project management software]]
+[[Category:Cloud computing providers]]
+[[Category:Collaborative projects]]
+[[Category:Community websites]]
 [[Category:Computing websites]]
+[[Category:Cross-platform free software]]
+[[Category:Free project management software]]
 [[Category:Internet properties established in 2008]]
-[[Category:Revision control]]
 [[Category:Open-source software hosting facilities]]
+[[Category:Project management software]]
+[[Category:Project hosting websites]]
+[[Category:Revision control]]
 [[Category:South of Market, San Francisco]]
+[[Category:Technology companies]]
