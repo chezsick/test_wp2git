@@ -66,7 +66,6 @@ GitHub Enterprise is similar to GitHub's public service but is designed for use 
 
 === Gist ===
 Gist builds upon that idea by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each “gist” is its own Git repository, multiple code snippets can be contained in a single paste and they and be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so pastes can become more like mini-projects.
-
 <!-- Placeholder for potential section about Speaker Deck
 === Speaker Deck ===
 -->
