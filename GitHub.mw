@@ -1,10 +1,10 @@
 {{Use dmy dates|date=November 2012}}
 {{Infobox dot-com company
 | launch_date = 10 April 2008
-| company_name              = GitHub, Inc.
+| name              = GitHub, Inc.
 | company_type              = [[Private company|Private]]
 | industry       = [[Software]]
-| company_logo              = [[File:GitHub logo 2013.svg|140px]]
+| logo              = [[File:GitHub logo 2013.svg|140px]]
 | founder                   = [[Tom Preston-Werner]]<br/>[[Chris Wanstrath]]<br/>[[PJ Hyett]]
 | key_people     = Chris Wanstrath ([[Chief Executive Officer|CEO]])<br> PJ Hyett ([[Chief Operating Officer|COO]])
 | programming language      = [[Ruby (programming language)|Ruby]]
@@ -91,7 +91,7 @@ One Million Repositories, Git Official Blog | date=25 July 2010}}</ref>
 ==Company==
 GitHub, Inc. was originally known as Logical Awesome.
 
-In 2014, GitHub's former CEO [[Tom Preston-Werner]] resigned from the company after GitHub confirmed harassment allegations.<ref name="Valleywag March 2014">{{cite blog|last1=Biddle|first1=Sam|last2=Tiku|first2=Nitasha|title=Meet the Married Duo Behind Tech's Biggest New Harassment Scandal|url=http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104|accessdate=17 March 2014|newspaper=[[Vallywag]]|publisher=Gawker|date=17 March 2014}}</ref><ref name="NYTResigns">{{cite blog|url=http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/?_php=true&_type=blogs&hp&_r=0|title=GitHub Founder Resigns After Investigation|first=Claire Cain|last=Miller|publisher=The New York Times|work=Bits|date=21 April 2014}}</ref><ref>{{cite web|url=http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/|title=GitHub Denies Allegations Of "Gender-Based Harassment," Co-Founder Preston-Werner Resigns|work=TechCrunch|last=Wilhelm|first=Alex|date=21 April 2014}}</ref><ref name="Follow up to the investigation results">{{cite blog|url=https://github.com/blog/1826-follow-up-to-the-investigation-results|title=Follow up to the investigation results|date=28 April 2014}}</ref>
+In 2014, GitHub's former CEO [[Tom Preston-Werner]] resigned from the company after GitHub confirmed harassment allegations.<ref name="Valleywag March 2014">{{cite web|last1=Biddle|first1=Sam|last2=Tiku|first2=Nitasha|title=Meet the Married Duo Behind Tech's Biggest New Harassment Scandal|url=http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104|accessdate=17 March 2014|newspaper=[[Vallywag]]|publisher=Gawker|date=17 March 2014}}</ref><ref name="NYTResigns">{{cite web|url=http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/?_php=true&_type=blogs&hp&_r=0|title=GitHub Founder Resigns After Investigation|first=Claire Cain|last=Miller|publisher=The New York Times|work=Bits|date=21 April 2014}}</ref><ref>{{cite web|url=http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/|title=GitHub Denies Allegations Of "Gender-Based Harassment," Co-Founder Preston-Werner Resigns|work=TechCrunch|last=Wilhelm|first=Alex|date=21 April 2014}}</ref><ref name="Follow up to the investigation results">{{cite web|url=https://github.com/blog/1826-follow-up-to-the-investigation-results|title=Follow up to the investigation results|date=28 April 2014}}</ref>
 
 GitHub's salespeople are not paid on a commission basis.<ref name="forbes">{{cite web|url=http://www.forbes.com/sites/tomiogeron/2012/07/09/cash-for-code-github-raises-100-million-from-andreessen-horowitz/ |title=Github Raises $100 Million From Andreessen Horowitz |date=9 July 2012 |publisher=Forbes}}</ref>
 
@@ -114,7 +114,7 @@ GitHub.com is a [[Startup company|start-up business]], which in its first years 
 {{reflist|30em}}
 
 ==External links==
-{{commons cat}}
+{{commons category}}
 * {{Google Play|com.github.mobile}}
 * {{F-Droid|com.github.mobile}}
 
