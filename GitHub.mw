@@ -41,7 +41,7 @@ The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (
 GitHub launched a new program to give students free access to their tools on 7 October 2014. It is called the GitHub Student Developer Pack. GitHub will partner with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], DNSimple, HackHands, [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
 
 ==== Scope ====
-GitHub is mostly used for code, but is also sometimes used for non-code types of files like [[Final Cut Pro X|Final Cut]] or [[Word document#File formats|Word documents]]. GitHub is not solely for programmers: in their educational videos, GitHub states that any "knowledge worker" (defined as almost any professional who makes use of a computer) can benefit.
+GitHub is mostly used for code.
 
 In addition to [[source code]], GitHub supports the following formats and features:
 
