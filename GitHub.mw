@@ -56,7 +56,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
 * [[Issue tracking]] (including feature requests)
 * [[Wikis]]
-* Small [[website]]s can be hosted from public repositories on GitHub. The URL format is http://''projectname''.github.io.
+* Small [[website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
 * Nested [[to do list|task-lists]] within files
 * Visualization of [[Geospatial analysis|geospatial]] data
 * [[Gantt chart]]s
