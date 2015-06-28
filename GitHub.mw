@@ -92,54 +92,6 @@ One Million Repositories, Git Official Blog | date=25 July 2010}}</ref>
 * 16 January 2013: GitHub announced it had passed the 3 million users mark and was then hosting more than 5 million repositories.<ref>{{cite web|url=http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ |title=Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories |publisher=TheNextWeb.com |date=2013-04-11 |accessdate=2013-04-11}}</ref>
 * 23 December 2013: GitHub announced it had reached 10 million repositories.<ref>{{cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
 * In June 2015, GitHub opened an office in Japan which is its first office outside of the U.S.<ref>{{cite web|url=http://techcrunch.com/2015/06/04/github-expands-to-japan-its-first-office-outside-the-u-s/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29|title=GitHub Expands To Japan, Its First Office Outside The U.S.|website = techcrunch |date=2015-06-04 }}</ref><br />
-== '''About Git and Commands''' ==
-Git is a version control software based on which github is working using git-bash or git-shell we use this service and for more easier use we also have octa-cat which commit files in github account and latest we have atom .<br />
-
-''There are some commands for git:''<br />
-
-1. '''git log''':This will show all the activities that are carried out in particular project what changes are made and who made the changes all details you will get from this command.<br />
-
-2. '''git diff''': This will show the difference between current file and previous file.<br />
-
-3. '''git checkout''':This command used for finding the bug it will temporary revert the commit that last made.<br />
-
-4. '''git clone''': This will create the copy of the repository in to your remote machine any changes made in the local file will not reflect in to the repository in Github.<br />
-
-5. '''git init''':This command will initialize the repository or in simple word after this init further operation for git and github will take place.<br />
-
-6. '''git status''':This basically shows the status of the repository how much file is in the staging area or untracked files(uncommitted files).<br />
-
-7. '''git add <file name>''':using this command you can add the file in staging area(staging area is the place where all the files are stored prior to its commit).<br />
-
-8. '''git commit''':This will commit the file and remove all the file from the staging area to repository also at the time of commit we have to write some commit message so that the changes can be easily trackable.<br />
-
-9. '''git branch (branch name)''':This is a command to create branch and it will be the default master branch.<br />
-
-10. '''git checkout (branch name)''':This will switch the control between the multiple branches.<br />
-
-11. '''git merge (branch names to merge)''':this will merge the two branches before merging we have to checkout two of the one branch so that no other branch is affected by this two branch merge.<br />
-
-12. '''git branch -d branch name''':This command will delete the branch.<br />
-
-13. '''git show (commit id)''': This will show the differences between the commit id and parent branch of its.<br />
-
-14. '''git merge --abort''':This will abort the merging process.<br />
-
-<ref>Udacity.com nanodegree course </ref>
-
-== '''GitHub commands:''' ==
-<br />
-
-1. '''git remote''': This command will tell us whether any remote file is there or not.<br />
-
-2. '''git remote add origin (address from github account where you created your repository)''':Thiscommand will add the remote repository if not there then.<br />
-
-3. '''git push origin master''': This command will push all the files to GitHub repository.<br />
-
-4. '''git pull origin master''': If any changes made in GitHub it will be reflected back in your remote repository.<br />
-
-<ref>Udacity.com nanodegree course</ref>
-
 
 === Censorship ===
 {{main article| Censorship of GitHub}}
