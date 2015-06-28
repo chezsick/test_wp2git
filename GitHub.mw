@@ -127,7 +127,8 @@ Git is a version control software based on which github is working using git-bas
 
 <ref>Udacity.com nanodegree course </ref>
 
-== '''GitHub commands:''' ==<br />
+== '''GitHub commands:''' ==
+<br />
 
 1. '''git remote''': This command will tell us whether any remote file is there or not.<br />
 
