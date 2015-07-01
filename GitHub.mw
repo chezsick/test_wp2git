@@ -2,20 +2,7 @@
 
 == Services ==
 
-=== GitHub ===
-Development of the GitHub platform began on October 1, 2007.<ref name="beginning">{{cite web|url=http://blogs.esri.com/esri/arcgis/2014/02/10/github-ceo-and-co-founder-chris-wanstrath-keynoting-esris-devsummit/ |title=GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit! |first1=Kristina |last1=Weis |date=2014-02-10 | quote=in 2007 they began working on GitHub as a side project}}</ref><ref name="githuboneyear">{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=19 October 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> The site was launched in April 2008 by [[Tom Preston-Werner]], Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period.<ref name="pastie">{{cite web|url = http://www.sitepoint.com/github-gist-is-pastie-on-steroids/ |title=GitHub Gist is Pastie on Steroids | date=24 July 2008|first1=Josh|last1=Catone}}</ref>
-
-Projects on GitHub can be accessed and manipulated using the standard git command-line interface and all of the standard git commands work with it.  GitHub also allows registered and non-registered users to browse public repositories on the site.  Multiple desktop clients and git plugins have also been created by GitHub and other third parties which integrate with the platform.
-
-The site provides [[social networking]]-like functions such as feeds, followers, wikis (using [[wiki software]] called gollum) and a [[Collaboration graph|social network graph]] to display how developers work on their versions ("[[fork (software development)|forks]]") of a repository and which fork (and branch within that fork) is newest.
-
-A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and [[code review|review changes to code]].
-
-GitHub also operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> which is for hosting code snippets (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
-
-The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. developers Chris Wanstrath,<ref name="wanstrathinterview">{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
-
-GitHub launched a new program on October 7, 2014 called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], HackHands, [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
+=== GitHub === give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], HackHands, [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
 
 ==== Scope ====
 GitHub is mostly used for code.
