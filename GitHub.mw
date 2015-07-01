@@ -5,19 +5,7 @@
 === GitHub === give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], HackHands, [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
 
 ==== Scope ====
-GitHub is mostly used for code.
-
-In addition to [[source code]], GitHub supports the following formats and features:
-
-* Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
-* [[Issue tracking]] (including feature requests)
-* [[Wikis]]
-* Small [[website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
-* Nested [[to do list|task-lists]] within files
-* Visualization of [[Geospatial analysis|geospatial]] data
-* [[Gantt chart]]s
-* 3D render files which can be previewed using a new integrated STL file viewer which displays the files on a 3D canvas.<ref name="3d">{{cite web|url=http://makezine.com/2013/04/09/github-now-supports-stl-file-viewing/ | title=GitHub Now Supports STL File Viewing |date=2013-04-09|last1=Weinhoffer |first1=Eric}}</ref> The viewer is powered by [[WebGL]] and [[Three.js]].
-* [[Photoshop]]'s native PSD format can be previewed and compared to previous versions of the same file.
+GitHub is mostly used f
 
 ==== Licensing of repositories ====
 GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. Therefore (and in any case) it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs.
