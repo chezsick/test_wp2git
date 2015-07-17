@@ -31,51 +31,6 @@
 
 GitHub offers both plans for private [[repository (revision control)|repositories]] and free accounts,<ref>{{cite web|title=Why GitHub’s pricing model stinks (for us)|url=https://lostechies.com/jimmybogard/2012/11/07/why-githubs-pricing-model-stinks-for-us/|website=LosTechies|accessdate=29 June 2015|archiveurl=https://web.archive.org/web/20150629153426/https://lostechies.com/jimmybogard/2012/11/07/why-githubs-pricing-model-stinks-for-us/|archivedate=29 June 2015|dead-url=no|date=7 November 2012}}</ref> which are usually used to host [[open-source]] software projects.<ref>{{cite web|title=The Problem With Putting All the World's Code in GitHub|url=http://www.wired.com/2015/06/problem-putting-worlds-code-github/|website=[[Wired (website)|Wired]]|accessdate=29 June 2015|archiveurl=https://web.archive.org/web/20150629152927/http://www.wired.com/2015/06/problem-putting-worlds-code-github/|archivedate=29 June 2015|dead-url=no|date=29 June 2015}}</ref> As of 2015, GitHub reports having over 9 million users and over 21.1 million repositories,<ref>{{cite web|url=https://github.com/about/press |title=GitHub Press Info |website=github.com |publisher=Github|accessdate=2015-03-30}}</ref> making it the largest code hoster in the world.<ref>{{cite journal|author1=Georgios Gousios|author2=Bogdan Vasilescu|author3=Alexander Serebrenik|author4=Andy Zaidman|title=Lean GHTorrent: GitHub Data on Demand|page=1|url=http://flosshub.org/sites/flosshub.org/files/lean-ghtorrent.pdf|accessdate=9 July 2014|publisher=Delft University of Technology & †Eindhoven University of Technology|location=The Netherlands|quote=During recent years, GITHUB (2008) has become the largest code host in the world.}}</ref>
 
-== Services ==
-
-=== GitHub ===
-Development of the GitHub platform began on October 1, 2007.<ref name="beginning">{{cite web|url=http://blogs.esri.com/esri/arcgis/2014/02/10/github-ceo-and-co-founder-chris-wanstrath-keynoting-esris-devsummit/ |title=GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit! |first1=Kristina |last1=Weis |date=2014-02-10 | quote=in 2007 they began working on GitHub as a side project}}</ref><ref name="githuboneyear">{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=19 October 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> The site was launched in April 2008 by [[Tom Preston-Werner]], Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period.<ref name="pastie">{{cite web|url = http://www.sitepoint.com/github-gist-is-pastie-on-steroids/ |title=GitHub Gist is Pastie on Steroids | date=24 July 2008|first1=Josh|last1=Catone}}</ref>
-
-Projects on GitHub can be accessed and manipulated using the standard git command-line interface and all of the standard git commands work with it.  GitHub also allows registered and non-registered users to browse public repositories on the site.  Multiple desktop clients and git plugins have also been created by GitHub and other third parties which integrate with the platform.
-
-The site provides [[social networking]]-like functions such as feeds, followers, wikis (using [[wiki software]] called gollum) and a [[Collaboration graph|social network graph]] to display how developers work on their versions ("[[fork (software development)|forks]]") of a repository and which fork (and branch within that fork) is newest.
-
-A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and [[code review|review changes to code]].
-
-The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. developers Chris Wanstrath,<ref name="wanstrathinterview">{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
-
-==== Scope ====
-GitHub is mostly used for code.
-
-In addition to [[source code]], GitHub supports the following formats and features:
-
-* Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
-* [[Issue tracking]] (including feature requests)
-* [[Wikis]]
-* Small [[website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
-* Nested [[to do list|task-lists]] within files
-* Visualization of [[Geospatial analysis|geospatial]] data
-* [[Gantt chart]]s
-* 3D render files which can be previewed using a new integrated STL file viewer which displays the files on a 3D canvas.<ref name="3d">{{cite web|url=http://makezine.com/2013/04/09/github-now-supports-stl-file-viewing/ | title=GitHub Now Supports STL File Viewing |date=2013-04-09|last1=Weinhoffer |first1=Eric}}</ref> The viewer is powered by [[WebGL]] and [[Three.js]].
-* [[Photoshop]]'s native PSD format can be previewed and compared to previous versions of the same file.
-
-==== Licensing of repositories ====
-GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. Therefore (and in any case) it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs.
-
-=== GitHub Enterprise ===
-GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web|url=https://github.com/blog/978-introducing-github-enterprise|accessdate=13 July 2014|title=Introducing GitHub Enterprise|publisher=GitHub}}</ref>
-
-=== Gist ===
-GitHub also operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> which is for hosting code snippets (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
-
-Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.<ref>{{cite conference |title=God's memory leak - a scientific treatment |first=Tom |last=Preston-Werner |url=https://groups.google.com/forum/#!topic/god-rb/Acyit8SlgcI |date=2008-07-20 |conference= RubyFringe |conferenceurl=https://unspace.ca/rubyfringe/ |accessdate=2014-10-21|quote=He previewed the upcoming git feature gist }}</ref> Gist builds on the traditional simple concept of a [[pastebin]] by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.
-
-<!-- Placeholder for potential section about Speaker Deck
-=== Speaker Deck ===
--->
-=== Education Program ===
-GitHub launched a new program on October 7, 2014 called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], HackHands, [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
-
 == History  ==
 [[File:Mapping collaborative software on GitHub.png|thumb|The shading of the map illustrates the number of users as a proportion of each country’s Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.]]
 
