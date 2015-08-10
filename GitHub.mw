@@ -71,6 +71,7 @@ Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby confe
 <!-- Placeholder for potential section about Speaker Deck
 === Speaker Deck ===
 -->
+
 === Education Program ===
 GitHub launched a new program on October 7, 2014 called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], [[HackHands]], [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
 
@@ -88,7 +89,8 @@ One Million Repositories, Git Official Blog | date=25 July 2010}}</ref>
 * 16 January 2013: GitHub announced it had passed the 3 million users mark and was then hosting more than 5 million repositories.<ref>{{cite web|url=http://thenextweb.com/insider/2013/04/11/code-sharing-site-github-turns-five-and-hits-3-5-million-users-6-million-repositories/ |title=Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories |publisher=TheNextWeb.com |date=2013-04-11 |accessdate=2013-04-11}}</ref>
 * 23 December 2013: GitHub announced it had reached 10 million repositories.<ref>{{cite web|url=https://github.com/blog/1724-10-million-repositories |title=10 Million Repositories |publisher=GitHub.com |date=2013-12-23 |accessdate=2013-12-28}}</ref>
 * In June 2015, GitHub opened an office in Japan that is its first office outside of the U.S.<ref>{{cite web|url=http://techcrunch.com/2015/06/04/github-expands-to-japan-its-first-office-outside-the-u-s/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29|title=GitHub Expands To Japan, Its First Office Outside The U.S.|website = techcrunch |date=2015-06-04 }}</ref>
-* 29 July 2015: GitHub announced it had raised $250 million in funding in a round led by [[Sequoia Capital]]. The round valued the company at approximately $2 billion.<ref>{{cite web|url=http://fortune.com/2015/07/29/github-raises-250-million-in-new-funding-now-valued-at-2-billion/ |title= GitHub raises $250 million in new funding, now valued at $2 billion |publisher=Fortune |date=2015-7-29|}}</ref>
+* 29 July 2015: GitHub announced it had raised $250 million in funding in a round led by [[Sequoia Capital]]. The round valued the company at approximately $2 billion.<ref>{{cite web|url=http://fortune.com/2015/07/29/github-raises-250-million-in-new-funding-now-valued-at-2-billion/ |title= GitHub raises $250 million in new funding, now valued at $2 billion |publisher=Fortune |date=2015-07-29}}</ref>
+
 === Censorship ===
 {{main| Censorship of GitHub}}
 * 3 December 2014: GitHub was blocked in Russia for a few days over user-posted suicide manuals.<ref>{{cite web|url=http://techcrunch.com/2014/12/03/github-russia/|title=Russia Blacklists, Blocks GitHub Over Pages That Refer To Suicide}}</ref>
@@ -96,7 +98,7 @@ One Million Repositories, Git Official Blog | date=25 July 2010}}</ref>
 * 26 March 2015: GitHub fell victim to a massive [[distributed denial-of-service|distributed denial-of-service (DDOS)]] attack that lasted for more than 118 hours.<ref>{{cite web|url=https://github.com/blog/1981-large-scale-ddos-attack-on-github-com|title=Large Scale DDoS Attack on github.com |publisher=GitHub |website=github.com |date=March 27, 2015 |accessdate = March 31, 2015 }}</ref> The attack, which appeared to originate from [[China]], primarily targeted Github-hosted user content describing methods of [[Internet censorship circumvention|circumventing Internet censorship]].<ref>{{cite web|url=http://www.theverge.com/2015/3/27/8299555/github-china-ddos-censorship-great-firewall|title=Last night, GitHub was hit with massive denial-of-service attack from China|publisher=[[The Verge]] |website=theverge.com |date=March 27, 2015 |accessdate = March 27, 2015 }}</ref><ref>{{cite web|url=http://www.wsj.com/articles/u-s-coding-website-github-hit-with-cyberattack-1427638940|title=U.S. Coding Website GitHub Hit With Cyberattack|publisher=[[The Wall Street Journal]] |website=wsj.com |date=March 29, 2015 |accessdate = March 29, 2015 }}</ref><ref>{{cite web|url=http://arstechnica.com/security/2015/03/massive-denial-of-service-attack-on-github-tied-to-chinese-government/|title=Massive denial-of-service attack on GitHub tied to Chinese government|publisher=[[Ars Technica]] |website=arstechnica.com |date=March 31, 2015 |accessdate = April 1, 2015 }}</ref>
 
 === Allegations of harassment and departure of Tom Preston-Werner ===
-In March 2014, GitHub programmer Julie Ann Horvath alleged that Preston-Werner and his wife Theresa engaged in a pattern of harassment against her that led to her leaving the company.<ref name="Valleywag March 2014">{{cite blog|last1=Biddle|first1=Sam|last2=Tiku|first2=Nitasha|title=Meet the Married Duo Behind Tech's Biggest New Harassment Scandal|url=http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104|accessdate=March 17, 2014|newspaper=[[Vallywag]]|publisher=Gawker|date=March 17, 2014}}</ref> After an investigation, GitHub [[CEO]] and cofounder Chris Wanstrath issued a statement on the company blog personally apologizing to Horvath. He wrote, “The investigation found Tom Preston-Werner in his capacity as GitHub’s CEO acted inappropriately, including confrontational conduct, disregard of workplace complaints, insensitivity to the impact of his spouse's presence in the workplace, and failure to enforce an agreement that his spouse should not work in the office… After being presented with the results we felt Tom could no longer be an effective leader at GitHub. He offered his resignation and we accepted."<ref>Wanstrath, Chris (April 28, 2014) [https://github.com/blog/1826-follow-up-to-the-investigation-results “Results of the GitHub Investigation.”] GitHub company blog. (Retrieved 7-13-2015.)</ref>
+In March 2014, GitHub programmer Julie Ann Horvath alleged that Preston-Werner and his wife Theresa engaged in a pattern of harassment against her that led to her leaving the company.<ref name="Valleywag March 2014">{{cite web|last1=Biddle|first1=Sam|last2=Tiku|first2=Nitasha|title=Meet the Married Duo Behind Tech's Biggest New Harassment Scandal|url=http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104|accessdate=March 17, 2014|newspaper=[[Vallywag]]|publisher=Gawker|date=March 17, 2014}}</ref> After an investigation, GitHub [[CEO]] and cofounder Chris Wanstrath issued a statement on the company blog personally apologizing to Horvath. He wrote, “The investigation found Tom Preston-Werner in his capacity as GitHub’s CEO acted inappropriately, including confrontational conduct, disregard of workplace complaints, insensitivity to the impact of his spouse's presence in the workplace, and failure to enforce an agreement that his spouse should not work in the office… After being presented with the results we felt Tom could no longer be an effective leader at GitHub. He offered his resignation and we accepted."<ref>Wanstrath, Chris (April 28, 2014) [https://github.com/blog/1826-follow-up-to-the-investigation-results “Results of the GitHub Investigation.”] GitHub company blog. (Retrieved 7-13-2015.)</ref>
 
 ==Company==
 GitHub, Inc. was originally known as Logical Awesome.
@@ -112,15 +114,15 @@ In 2014, GitHub, Inc. introduced a layer of middle management.<ref name="wsj-201
 ===Finance===
 GitHub.com is a [[Startup company|start-up business]], which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.<ref>{{cite web|last1=Michael|first1=Carney|title=GitHub CEO explains why the company took so damn long to raise venture capital|url=http://pando.com/2013/06/20/github-ceo-explains-why-the-company-took-so-damn-long-to-raise-venture-capital/|accessdate=10 July 2014|date=20 June 2013|publisher=PandoDaily}}</ref> In July 2012, four years after the company was founded, [[Andreessen Horowitz]] invested $100M in [[venture capital]].<ref name="hugeinvestment"/>
 
-==References==
-{{reflist|30em}}
-
 ==See also==
 * [[Collaborative innovation network]]
 * [[Collaborative intelligence]]
 * [[Commons-based peer production]]
 * [[Comparison of open-source software hosting facilities]]
 * {{tl|GitHub}}
+
+==References==
+{{reflist|30em}}
 
 ==External links==
 {{commons category}}
