@@ -55,6 +55,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * [[Issue tracking]] (including feature requests) with labels, milestones, assignees and a search engine.
 * [[Wikis]]
 * Pull requests with code review.
+* Integrations Directory<ref>https://github.com/integrations</ref>
 * Small [[Website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
 * Nested [[to do list|task-lists]] within files
 * Visualization of [[Geospatial analysis|geospatial]] data* 3D render files that can be previewed using a new integrated STL file viewer that displays the files on a 3D canvas.<ref name="3d">{{cite web|url=http://makezine.com/2013/04/09/github-now-supports-stl-file-viewing/ | title=GitHub Now Supports STL File Viewing |date=2013-04-09|last1=Weinhoffer |first1=Eric}}</ref> The viewer is powered by [[WebGL]] and [[Three.js]].
