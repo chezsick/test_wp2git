@@ -52,7 +52,7 @@ GitHub is mostly used for code.
 In addition to [[source code]], GitHub supports the following formats and features:
 
 * Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
-* [[Issue tracking]] (including feature requests)
+* [[Issue tracking]] (including feature requests) with labels, milestones and assignees.
 * [[Wikis]]
 * Small [[Website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
 * Nested [[to do list|task-lists]] within files
