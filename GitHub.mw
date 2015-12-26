@@ -55,6 +55,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * [[Issue tracking]] (including feature requests) with labels, milestones, assignees and a search engine.
 * [[Wikis]]
 * Pull requests with code review and comments.
+* Graphs: contributors, commits, code frequency , punch card , network, members.
 * Integrations Directory<ref>https://github.com/integrations</ref>
 * Unified and split diffs.
 * Email notifications.
