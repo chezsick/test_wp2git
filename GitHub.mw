@@ -36,7 +36,7 @@ The trademark [[mascot]] of GitHub is Octocat, an [[Anthropomorphism|anthropomor
 == Services ==
 
 === GitHub ===
-Development of the GitHub platform began on 1 October 2007.<ref name="beginning">{{cite web|url=http://blogs.esri.com/esri/arcgis/2014/02/10/github-ceo-and-co-founder-chris-wanstrath-keynoting-esris-devsummit/ |title=GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit! |first1=Kristina |last1=Weis |date=2014-02-10 | quote=in 2007 they began working on GitHub as a side project}}</ref><ref name="githuboneyear">{{cite web|url=https://github.com/blog/185-github-turns-one|title=GitHub Turns One!|work=GitHub|date=19 October 2008|first=Tom|last=Preston-Werner|accessdate=2014-03-28}}</ref> The site was launched in April 2008 by [[Tom Preston-Werner]], Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period.<ref name="pastie">{{cite web|url = http://www.sitepoint.com/github-gist-is-pastie-on-steroids/ |title=GitHub Gist is Pastie on Steroids | date=24 July 2008|first1=Josh|last1=Catone}}</ref>
+Ds | date=24 July 2008|first1=Josh|last1=Catone}}</ref>
 
 Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. Multiple desktop clients and Git [[Plug-in (computing)|plugin]]s have also been created by GitHub and other third parties that integrate with the platform.
 
@@ -68,7 +68,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * [[Photoshop]]'s native PSD format can be previewed and compared to previous versions of the same file.
 
 ==== Licensing of repositories ====
-GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. Therefore, (and in any case) it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs.
+GitHub'
 
 === GitHub Enterprise ===
 GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web|url=https://github.com/blog/978-introducing-github-enterprise|accessdate=13 July 2014|title=Introducing GitHub Enterprise|publisher=GitHub}}</ref>
