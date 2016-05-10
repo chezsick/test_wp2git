@@ -44,7 +44,7 @@ The site provides [[social networking]]-like functions such as feeds, followers,
 
 A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and [[code review|review changes to code]].
 
-The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. developers Chris Wanstrath,<ref name="wanstrathinterview">{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref> PJ Hyett, and [[Tom Preston-Werner]].
+The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. developers Chris Wanstrath<ref name="wanstrathinterview">{{cite web|url=http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title=Interview with Chris Wanstrath |publisher=Doeswhat.com |date=2012-03-06 |accessdate=2013-02-26}}</ref>, PJ Hyett, and [[Tom Preston-Werner]].
 
 ==== Scope ====
 GitHub is mostly used for code.
@@ -60,7 +60,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * Integrations Directory<ref>{{cite web|url=https://github.com/integrations|title=Integrations Directory|work=GitHub|accessdate=30 April 2016}}</ref>
 * Unified and split diffs.
 * Email notifications.
-* Option to subscribe someone to notifications by @ mentioning them.<ref>{{cite web|url=https://github.com/blog/821|title=Mention @somebody. They're notified.|work=GitHub|accessdate=30 April 2016}}</ref>
+* Option to subscribe someone to notifications by [[Mention (blogging)|@ mentioning]] them.<ref>{{cite web|url=https://github.com/blog/821|title=Mention @somebody. They're notified.|work=GitHub|accessdate=30 April 2016}}</ref>
 * Emojis<ref>{{cite web|url=https://help.github.com/articles/writing-on-github/|title=Redirecting...|publisher=|accessdate=30 April 2016}}</ref>
 * Small [[Website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.
 * Nested [[to do list|task-lists]] within files
