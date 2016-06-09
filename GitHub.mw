@@ -71,7 +71,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. For that reason, it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs.
 
 === GitHub Enterprise ===
-GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web|url=https://github.com/blog/978-introducing-github-enterprise|accessdate=13 July 2014|title=Introducing GitHub Enterprise|publisher=GitHub}}</ref>
+GitHub Enterprise is similar to GitHub's widely popular open source tool but is designed for use for software development teams which wish to host their repositories behind a company's own [[firewall (computing)|firewall]].<ref>{{cite web|url=https://github.com/blog/978-introducing-github-enterprise|accessdate=13 July 2014|title=Introducing GitHub Enterprise|publisher=GitHub}}</ref>
 
 === Gist ===
 GitHub also operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> that is for hosting code snippets (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
