@@ -123,12 +123,6 @@ In 2014, GitHub, Inc. introduced a layer of middle management.<ref name="wsj-201
 ===Finance===
 GitHub.com is a [[Startup company|start-up business]], which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.<ref>{{cite web |last1 = Michael |first1 = Carney |title = GitHub CEO explains why the company took so damn long to raise venture capital |url = http://pando.com/2013/06/20/github-ceo-explains-why-the-company-took-so-damn-long-to-raise-venture-capital/ |accessdate = 10 July 2014 |date = 20 June 2013 |publisher = PandoDaily }}</ref> In July 2012, four years after the company was founded, [[Andreessen Horowitz]] invested $100M in [[venture capital]].<ref name="hugeinvestment"/> In July 2015 GitHub raised another $250M of venture capital in a [[Series B|series B round]]. Investors were [[Sequoia Capital]], [[Andreessen Horowitz]], [[Thrive Capital]] and other Venture-Capital-Fonds.<ref>{{Cite web |url = http://social.techcrunch.com/2015/07/29/github-raises-250m-series-b-round-to-take-risks/ |title = GitHub Raises $250M Series B Round To Take Risks |last = Lardinois |first = Frederic |website = TechCrunch |access-date = 2016-07-04 }}</ref>
 
-=== Security ===
-GitHub Enterprise is designed to run behind your corporate firewall. To secure communications over the wire, we encourage you to run GitHub Enterprise over SSL. An administrator can add 2048-bit or higher commercial SSL certificates for HTTPS traffic. Additionally, SSH for virtual machine administration and repository access using Git is enabled by default on GitHub Enterprise.
-
-Having an accurate record of all user and system activity is a core requirement for many customers. GitHub Enterprise has detailed audit records, accessible to the site administrators, that capture relevant security information. The system also provides traditional operating system and application access logs.
-
-While not an exhaustive list, the following are some examples of the audit and logging information available:
 ==See also==
 * [[GitLab]]
 * [[Collaborative innovation network]]
