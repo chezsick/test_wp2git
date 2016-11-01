@@ -54,7 +54,7 @@ In addition to [[source code]], GitHub supports the following formats and featur
 * Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
 * [[Issue tracking]] (including feature requests) with labels, milestones, assignees and a search engine.
 * [[Wikis]]
-* Pull requests with code review and comments.
+* [[Distributed version control#Pull_requests|Pull requests]] with code review and comments.
 * Commits history.
 * Graphs: pulse, contributors, commits, code frequency, punch card, network, members.
 * Integrations Directory<ref>{{cite web |url = https://github.com/integrations |title = Integrations Directory |work = GitHub |accessdate = 30 April 2016 }}</ref>
