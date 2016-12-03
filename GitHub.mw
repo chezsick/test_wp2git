@@ -1,30 +1,30 @@
 {{use dmy dates|date=November 2012}}
 
 {{Infobox dot-com company
-|name                 = GitHub, Inc.
-|logo                 = GitHub logo 2013 padded.svg
-|screenshot           = 
-|caption              = 
-|type                 = [[Private company|Private]]
-|founded              = {{start date and age|df=no|2008|2|8}}
-|location             = [[San Francisco]], [[California]], [[United States|U.S.]]
-|area served          = [[World]]wide
-|founder              = [[Tom Preston-Werner]] <br/> Chris Wanstrath <br/> PJ Hyett
-|CEO                  = Chris Wanstrath
-|key people           = PJ Hyett ([[Chief Operating Officer|COO]])
-|industry             = [[Software]]
-|international        = Yes
-|employees            = 598 <ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
-|slogan               = "Build software better, together.", "Where software is built"
-|url                  = {{URL|https://github.com}}
+|name = GitHub, Inc.
+|logo = GitHub logo 2013 padded.svg
+|screenshot = 
+|caption = 
+|type = [[Private company|Private]]
+|founded = {{start date and age|df=no|2008|2|8}}
+|location = [[San Francisco]], [[California]], [[United States|U.S.]]
+|area served = [[World]]wide
+|founder = [[Tom Preston-Werner]] <br/> Chris Wanstrath <br/> PJ Hyett
+|CEO = Chris Wanstrath
+|key people = PJ Hyett ([[Chief Operating Officer|COO]])
+|industry = [[Software]]
+|international = Yes
+|employees = 598<ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
+|slogan = "Build software better, together.", "Where software is built"
+|url = {{URL|https://github.com}}
 |programming language = [[Ruby (programming language)|Ruby]]
-|alexa                = {{decrease}} 57 ({{as of|2016|11|09|alt=November 2016}})<ref>{{cite web |url = http://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = 2016-10-16 }}</ref>
-|website type         = [[Git]] repository hosting service
-|registration         = Optional <small>(required for creating and joining projects)</small>
-|users                = 14 million (April 2016)
-|language             = [[English language|English]]
-|launched             = {{start date and age|df=yes|2008|4|10}}
-|current status       = Active
+|alexa = {{decrease}} 57 ({{as of|2016|11|09|alt=November 2016}})<ref>{{cite web |url = http://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = 2016-10-16 }}</ref>
+|website type = [[Git]] repository hosting service
+|registration = Optional <small>(required for creating and joining projects)</small>
+|users = 14 million (April 2016)
+|language = [[English language|English]]
+|launched = {{start date and age|df=yes|2008|4|10}}
+|current status = Active
 }}
 
 '''GitHub''' is a web-based [[Git]] [[Repository (version control)|repository]] [[Internet hosting service|hosting service]]. It offers all of the [[distributed version control]] and [[source code management]] (SCM) functionality of [[Git]] as well as adding its own features. It provides [[access control]] and several collaboration features such as [[bug tracking system|bug tracking]], [[software feature|feature requests]], [[task management]], and [[wiki]]s for every project.<ref name="hugeinvestment">{{cite web |url = http://techcrunch.com/2012/07/09/github-pours-energies-into-enterprise-raises-100-million-from-power-vc-andreesen-horowitz/ |title = GitHub Pours Energies into Enterprise – Raises $100 Million From Power VC Andreessen Horowitz |date = 9 July 2012 |first1 = Alex |last1 = Williams |publisher = Tech Crunch |quote = Andreessen Horowitz is investing an eye-popping $100 million into GitHub }}</ref>
@@ -90,7 +90,7 @@ GitHub launched a new program called the GitHub Student Developer Pack to give s
 == History ==
 [[File:Mapping collaborative software on GitHub.png|thumb|The shading of the map illustrates the number of users as a proportion of each country’s Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.]]
 
-* 24 February 2009: GitHub team members announced, in a talk at [[Yahoo!]] headquarters, that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 had been merged. 
+* 24 February 2009: GitHub team members announced, in a talk at [[Yahoo!]] headquarters, that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 had been merged.
 * 5 July 2009: GitHub announced that the site was now harnessed by over 100,000 users.
 * 27 July 2009: In another talk delivered at [[Yahoo!]], [[Tom Preston-Werner]] announced that GitHub had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.<ref>{{cite web |url = http://wiki.dandascalescu.com/essays/pita-threshold |title = The PITA Threshold: GitHub vs. CPAN |work = Dan Dascalescu's Wiki |first = Dan |last = Dascalescu |date = 3 November 2009 }}</ref>
 * 25 July 2010: GitHub announced that it hosts 1 million repositories.<ref>{{cite web |url = https://github.com/blog/685-one-million-repositories |title = One Million Repositories, Git Official Blog |date = 25 July 2010 }}</ref>
@@ -113,29 +113,29 @@ GitHub launched a new program called the GitHub Student Developer Pack to give s
 === Departure of Tom Preston-Werner ===
 In March 2014, GitHub programmer Julie Ann Horvath alleged that founder and CEO [[Tom Preston-Werner]] and his wife Theresa engaged in a pattern of harassment against her that led to her leaving the company.<ref name="Valleywag March 2014">{{cite web |last1 = Biddle |first1 = Sam |last2 = Tiku |first2 = Nitasha |title = Meet the Married Duo Behind Tech's Biggest New Harassment Scandal |url = http://valleywag.gawker.com/meet-the-married-duo-behind-techs-biggest-new-harassme-1545685104 |accessdate = March 17, 2014 |newspaper = [[Vallywag]] |publisher = Gawker |date = March 17, 2014 }}</ref> In April 2014, GitHub released a statement denying Horvath's allegations.<ref name="NYTResigns">{{cite web |url = http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/?_php=true&_type=blogs&hp&_r=0 |title = GitHub Founder Resigns After Investigation |first = Claire Cain |last = Miller |publisher = The New York Times |work = Bits |date = April 21, 2014 }}</ref><ref>{{cite web |url = http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/ |title = GitHub Denies Allegations Of "Gender-Based Harassment," Co-Founder Preston-Werner Resigns |work = TechCrunch |last = Wilhelm |first = Alex |date = April 21, 2014 }}</ref> However, following an internal investigation, GitHub confirmed the claims. GitHub's CEO Chris Wanstrath wrote on the company [[blog]], "The investigation found Tom Preston-Werner in his capacity as GitHub’s CEO acted inappropriately, including confrontational conduct, disregard of workplace complaints, insensitivity to the impact of his spouse's presence in the workplace, and failure to enforce an agreement that his spouse should not work in the office."<ref name="Follow up to the investigation results">{{cite web |url = https://github.com/blog/1826-follow-up-to-the-investigation-results |title = Follow up to the investigation results |date = April 28, 2014 }}</ref> Preston-Werner then resigned from the company.
 
-==Company==
+== Company ==
 GitHub, Inc. was originally known as Logical Awesome LLC.<ref>{{cite web |url = https://github.com/blog/589-new-year-new-company |title = New Year, New Company |access-date = 11 April 2016 }}</ref>
 
-===Organizational structure===
+=== Organizational structure ===
 
 {{asof|2012|12}}, GitHub, Inc. was a [[flat organization]] with no middle managers; in other words, "everyone is a manager" ([[Workers' self-management|self-management]]).<ref name='cto-mgmt-style'>{{cite web |url = http://tomayko.com/writings/management-style |title = Show How, Don't Tell What - A Management Style |author = Ryan Tomayko |date = 2 April 2012 |accessdate = 28 August 2013 }}</ref> Employees can choose to work on projects that interest them ([[open allocation]]). However, salaries are set by the chief executive.<ref name='nyt'>{{cite news |url = http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=0 |title = Dreams of 'Open' Everything |author = Quentin Hardy |publisher = New York Times }}</ref>{{update inline|date=August 2014}}
 
 In 2014, GitHub, Inc. introduced a layer of middle management.<ref name="wsj-2014">{{cite news |url = http://online.wsj.com/articles/harassment-claims-make-startup-github-grow-up-1405639553 |title = Harassment claims make startup GitHub grow up |last = Evelyn |first = Rusli |work = [[Wall Street Journal]] |accessdate = 18 July 2014 |date = 17 July 2014 }}</ref>
 
-===Finance===
+=== Finance ===
 GitHub.com is a [[Startup company|start-up business]], which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.<ref>{{cite web |last1 = Michael |first1 = Carney |title = GitHub CEO explains why the company took so damn long to raise venture capital |url = http://pando.com/2013/06/20/github-ceo-explains-why-the-company-took-so-damn-long-to-raise-venture-capital/ |accessdate = 10 July 2014 |date = 20 June 2013 |publisher = PandoDaily }}</ref> In July 2012, four years after the company was founded, [[Andreessen Horowitz]] invested $100M in [[venture capital]].<ref name="hugeinvestment"/> In July 2015 GitHub raised another $250M of venture capital in a [[Series B|series B round]]. Investors were [[Sequoia Capital]], [[Andreessen Horowitz]], [[Thrive Capital]] and other venture capital funds.<ref>{{Cite web |url = http://social.techcrunch.com/2015/07/29/github-raises-250m-series-b-round-to-take-risks/ |title = GitHub Raises $250M Series B Round To Take Risks |last = Lardinois |first = Frederic |website = TechCrunch |access-date = 2016-07-04 }}</ref>
 
-==See also==
+== See also ==
 * [[GitLab]]
 * [[Collaborative innovation network]]
 * [[Collaborative intelligence]]
 * [[Commons-based peer production]]
 * [[Comparison of source code hosting facilities]]
 
-==References==
+== References ==
 {{reflist|30em}}
 
-==External links==
+== External links ==
 {{commons category}}
 * {{Official website|https://github.com}}
 
