@@ -1,5 +1,4 @@
-{{use dmy dates|date=November 2012}}
-
+{
 {{Infobox dot-com company
 |name = GitHub, Inc.
 |logo = GitHub logo 2013 padded.svg
@@ -31,7 +30,7 @@
 
 GitHub offers both plans for private [[repository (version control)|repositories]], and free accounts<ref>{{cite web |title = Why GitHub’s pricing model stinks (for us) |url = https://lostechies.com/jimmybogard/2012/11/07/why-githubs-pricing-model-stinks-for-us/ |website = LosTechies |accessdate = 29 June 2015 |archiveurl = https://web.archive.org/web/20150629153426/https://lostechies.com/jimmybogard/2012/11/07/why-githubs-pricing-model-stinks-for-us/ |archivedate = 29 June 2015 |dead-url = no |date = 7 November 2012 }}</ref> which are commonly used to host [[open-source]] software projects.<ref>{{cite web |title = The Problem With Putting All the World's Code in GitHub |url = http://www.wired.com/2015/06/problem-putting-worlds-code-github/ |website = [[Wired (website)|Wired]] |accessdate = 29 June 2015 |archiveurl = https://web.archive.org/web/20150629152927/http://www.wired.com/2015/06/problem-putting-worlds-code-github/ |archivedate = 29 June 2015 |dead-url = no |date = 29 June 2015 }}</ref> As of April 2016, GitHub reports having more than 14 million users and more than 35 million repositories,<ref>{{cite web |url = https://github.com/about/press |title = GitHub Press Info |website = github.com |publisher = Github |accessdate = 2015-11-15 }}</ref> making it the largest host of source code in the world.<ref>{{cite journal |author1 = Georgios Gousios |author2 = Bogdan Vasilescu |author3 = Alexander Serebrenik |author4 = Andy Zaidman |title = Lean GHTorrent: GitHub Data on Demand |page = 1 |url = http://www.win.tue.nl/~aserebre/msr14georgios.pdf |accessdate = 9 July 2014 |publisher = Delft University of Technology & †Eindhoven University of Technology |location = The Netherlands |quote = During recent years, GITHUB (2008) has become the largest code host in the world. }}</ref>
 
-The trademark [[mascot]] of GitHub is Octocat, an [[Anthropomorphism|anthropomorphized]] cat with [[Cephalopod limb|cephalopod limbs]].<ref>{{cite web |title = FAQ of Octocat |url = https://octodex.github.com/faq.html |accessdate = 21 September 2015 |website = github.com }}</ref>
+The trademark [[mascot]] of GitHub is Octocat, an [[Anthropomorphism|anthropomorphized]] cat with [[Cephalopod limb|cephalopod limbs]].<ref>{{cite web |title = FAQ of Octocat |url = https://octodex.github.com/faq.html |accessdate = 21 September 2015 |website = github.com }}</ref>by mudassir.
 
 == Services ==
 
