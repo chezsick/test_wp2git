@@ -51,7 +51,7 @@ GitHub is mostly used for code.
 
 In addition to [[source code]], GitHub supports the following formats and features:
 
-* Documentation, including automatically-rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
+* Documentation, including automatically rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
 * [[Issue tracking]] (including feature requests) with labels, milestones, assignees and a search engine.
 * [[Wikis]]
 * [[Pull request]]s with code review and comments.
