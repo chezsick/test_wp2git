@@ -72,16 +72,16 @@ In addition to [[source code]], GitHub supports the following formats and featur
 GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. For that reason, it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs{{citation needed|date=July 2016}}.
 The [[Terms of Service]] state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."<ref>{{cite web|url=https://help.github.com/articles/github-terms-of-service/ |title=GitHub Terms of Service - User Documentation |publisher=Help.github.com |date=2016-02-11 |accessdate=2016-12-05}}</ref>
 
-=== GitHub Enterprise ===bla bla bla Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web |url = https://github.com/blog/978-introducing-github-enterprise |accessdate = 13 July 2014 |title = Introducing GitHub Enterprise |publisher = GitHub }}</ref>
+=== GitHub Enterprise ===
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web |url = https://github.com/blog/978-introducing-github-enterprise |accessdate = 13 July 2014 |title = Introducing GitHub Enterprise |publisher = GitHub }}</ref>
 
-=== Git ===
-GitHub operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> that is for hosting code snippets (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
+=== Gist ===
+GitHub also operates other services: a [[pastebin]]-style site called Gist<ref name="pastie"/> that is for hosting code snippets (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
 
 Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.<ref>{{cite conference |title = God's memory leak - a scientific treatment |first = Tom |last = Preston-Werner |url = https://groups.google.com/forum/#!topic/god-rb/Acyit8SlgcI |date = 2008-07-20 |conference = RubyFringe |conferenceurl = https://unspace.ca/rubyfringe/ |accessdate = 2014-10-21 |quote = He previewed the upcoming git feature gist }}</ref> Gist builds on the traditional simple concept of a [[pastebin]] by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.
 <!-- Placeholder for potential section about Speaker Deck
 === Speaker Deck ===
 -->
-→→
 
 === Education program ===
 GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], [[HackHands]], [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>By Frederic Lardinois, TechCrunch. "[http://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/ GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools]." 7 October 2014. 7 October 2014.</ref>
