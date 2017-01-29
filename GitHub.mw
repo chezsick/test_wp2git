@@ -46,27 +46,7 @@ A user must create an account in order to contribute content to the site, but pu
 
 The software that runs GitHub was written using [[Ruby on Rails]] and [[Erlang (programming language)|Erlang]] by GitHub, Inc. developers Chris Wanstrath,<ref name="wanstrathinterview">{{cite web |url = http://doeswhat.com/2012/03/06/interview-with-chris-wanstrath-github/ |title = Interview with Chris Wanstrath |publisher = Doeswhat.com |date = 2012-03-06 |accessdate = 2013-02-26 }}</ref> PJ Hyett, and [[Tom Preston-Werner]].
 
-==== Scope ====
-GitHub is mostly used for code.
-
-In addition to [[source code]], GitHub supports the following formats and features:
-
-* Documentation, including automatically rendered [[README]] files in a variety of [[Markdown]]-like file formats (see [[README#On GitHub|README files on GitHub]])
-* [[Issue tracking]] (including feature requests) with labels, milestones, assignees and a search engine.
-* [[Wikis]]
-* [[Pull request]]s with code review and comments.
-* Commits history.
-* Graphs: pulse, contributors, commits, code frequency, punch card, network, members.
-* Integrations Directory<ref>{{cite web |url = https://github.com/integrations |title = Integrations Directory |work = GitHub |accessdate = 30 April 2016 }}</ref>
-* Unified and split diffs.
-* Email notifications.
-* Option to subscribe someone to notifications by [[Mention (blogging)|@ mentioning]] them.<ref>{{cite web |url = https://github.com/blog/821 |title = Mention @somebody. They're notified. |work = GitHub |accessdate = 30 April 2016 }}</ref>
-* Emojis<ref>{{cite web |url = https://help.github.com/categories/writing-on-github/ |title = Github Help / Categories / Writing on GitHub |publisher = Github.com |accessdate = 30 April 2016 }}</ref>
-* GitHub Pages: small [[website]]s can be hosted from public repositories on GitHub. The URL format is http://''username''.github.io.[https://pages.github.com/]
-* Nested [[to do list|task-lists]] within files
-* Visualization of [[Geospatial analysis|geospatial]] data
-* 3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".<ref name="3d">{{cite web |url = http://makezine.com/2013/04/09/github-now-supports-stl-file-viewing/ |title = GitHub Now Supports STL File Viewing |date = 2013-04-09 |last1 = Weinhoffer |first1 = Eric }}</ref> The viewer is powered by [[WebGL]] and [[Three.js]].
-* [[Photoshop]]'s native PSD format can be previewed and compared to previous versions of the same file.
+==INSERT==
 
 ==== Licensing of repositories ====
 GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the [[Open Source Definition]]. For that reason, it is advisable for users and developers intending to use a piece of software found on GitHub to read the [[software license]] in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs{{citation needed|date=July 2016}}.
