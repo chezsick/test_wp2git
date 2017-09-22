@@ -73,7 +73,7 @@ GitHub's Terms of Service do not require public software projects hosted on GitH
 The [[Terms of Service]] state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."<ref>{{cite web|url=https://help.github.com/articles/github-terms-of-service/ |title=GitHub Terms of Service - User Documentation |publisher=Help.github.com |date=2016-02-11 |accessdate=2016-12-05}}</ref>
 
 === GitHub Enterprise ===
-[https://enterprise.github.com GitHub Enterprise] is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web |url = https://github.com/blog/978-introducing-github-enterprise |accessdate = 13 July 2014 |title = Introducing GitHub Enterprise |publisher = GitHub }}</ref>
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate [[firewall (computing)|firewall]].<ref>{{cite web |url = https://github.com/blog/978-introducing-github-enterprise |accessdate = 13 July 2014 |title = Introducing GitHub Enterprise |publisher = GitHub }}</ref>
 
 === Gists ===
 GitHub also operates other services: a [[pastebin]]-style site called '''Gist'''<ref name="pastie"/> that is for hosting [[Snippet (programming)|code snippets]] (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
