@@ -1,4 +1,5 @@
-{{use dmy dates|date=November 2012}}
+{{Use dmy dates|date=November 2012}}
+
 {{Infobox dot-com company
 |name = GitHub, Inc.
 |logo = GitHub logo 2013 padded.svg
@@ -6,16 +7,16 @@
 |caption = 
 |type = [[Private company|Private]]
 |founded = {{start date and age|df=no|2008|2|8}}
-|location = [[San Francisco]], [[California]], [[United States|U.S.]]
-|area served = [[World]]wide
+|location = [[San Francisco]], [[California]], [[United States]]
+|area served = [[World|Worldwide]]
 |founder = [[Tom Preston-Werner]] <br/> Chris Wanstrath <br/> PJ Hyett
 |CEO = [[Chris Wanstrath]]
-|key people = PJ Hyett ([[Chief Operating Officer|COO]])
+|key people = P. J. Hyett ([[Chief operating officer|COO]])
 |industry = [[Software]]
 |international = Yes
 |employees = 668<ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
 |slogan = "Build software better, together.", "Where software is built"
-|url = {{URL|https://github.com}}
+|url = [https://github.com/ GitHub.com]
 |programming language = [[Ruby (programming language)|Ruby]]
 |alexa = {{Increase}} 59({{as of|2017|9|24|alt=September 2017}})<ref>{{cite web |url = http://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = 2017-01-14 }}</ref>
 |website type = [[Git]] repository hosting service
