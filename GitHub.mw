@@ -88,10 +88,10 @@ Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby confe
 GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], [[HackHands]], [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>{{cite web|first=Frederic|last=Lardinois|publisher=TechCrunch|url=https://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/|title=GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools|date=7 October 2014|access-date=7 October 2014}}</ref>
 
 === GitHub Marketplace service ===
-Git also provides some software as a service (ref to saas) to their users with the objective of add extra features to their projects. Those software are:
+GitHub also provides some [[software as a service]] integrations for adding extra features to projects. Those services include:
 * Rollbar: Integrate with GitHub to provide real time debugging tools and full-stack exception reporting. It is compatible with all well used code languages, such as JavaScript, Python, .Net, Ruby, PHP, Node.js, Android, iOS, Go, Java and C#.
-* Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotllin, Objective-C, TypeScript.
-* Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python,Php, Ruby and Swift.
+* Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, TypeScript.
+* Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python, PHP, Ruby and Swift.
 * GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
 
 == History ==
