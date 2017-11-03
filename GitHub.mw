@@ -1,30 +1,30 @@
 {{Use dmy dates|date=November 2012}}
 
 {{Infobox dot-com company
-|name = GitHub, Inc.
-|logo = GitHub logo 2013 padded.svg
-|screenshot = 
-|caption = 
-|type = [[Private company|Private]]
-|founded = {{start date and age|df=no|2008|2|8}}
-|location = [[San Francisco]], [[California]], [[United States]]
-|area served = [[World|Worldwide]]
-|founder = [[Tom Preston-Werner]] <br/> Chris Wanstrath <br/> PJ Hyett
-|CEO = [[Chris Wanstrath]]
-|key people = P. J. Hyett ([[Chief operating officer|COO]])
-|industry = [[Software]]
-|international = Yes
-|employees = 686<ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
-|slogan = "Build software better, together.", "Where software is built"
-|url = [https://github.com/ GitHub.com]
+|name                 = GitHub, Inc.
+|logo                 = GitHub logo 2013 padded.svg
+|screenshot           = 
+|caption              = 
+|type                 = [[Private company|Private]]
+|founded              = {{start date and age|df=no|2008|2|8}}
+|location             = [[San Francisco]], [[California]], [[United States]]
+|area served          = [[World|Worldwide]]
+|founder              = [[Tom Preston-Werner]] <br/> Chris Wanstrath <br/> PJ Hyett
+|CEO                  = [[Chris Wanstrath]]
+|key people           = P. J. Hyett ([[Chief operating officer|COO]])
+|industry             = [[Software]]
+|international        = Yes
+|employees            = 686<ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
+|slogan               = "Build software better, together.", "Where software is built"
+|url                  = [https://github.com/ GitHub.com]
 |programming language = [[Ruby (programming language)|Ruby]]
-|alexa = {{IncreaseNegative}} 61 ({{as of|2017|10|09|alt=October 2017}})<ref>{{cite web |url = http://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = 2017-10-09 }}</ref>
-|website type = [[Git]] repository hosting service
-|registration = Optional <small>(required for creating and joining projects)</small>
-|users = 26 million (March 2017)
-|language = [[English language|English]]
-|launched = {{start date and age|df=yes|2008|4|10}}
-|current status = Active
+|alexa                = {{IncreaseNegative}} 61 ({{as of|2017|10|09|alt=October 2017}})<ref>{{cite web |url = http://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = 2017-10-09 }}</ref>
+|website type         = [[Git]] repository hosting service
+|registration         = Optional <small>(required for creating and joining projects)</small>
+|users                = 26 million (March 2017)
+|language             = [[English language|English]]
+|launched             = {{start date and age|df=yes|2008|4|10}}
+|current status       = Active
 }}
 
 '''GitHub''' is a web-based [[Git]] or [[Repository (version control)|version control repository]] and [[Internet hosting service]]. It is mostly used for [[Source code|code]].  It offers all of the [[distributed version control]] and [[source code management]] (SCM) functionality of Git as well as adding its own features. It provides [[access control]] and several collaboration features such as [[bug tracking system|bug tracking]], [[software feature|feature requests]], [[task management]], and [[wiki]]s for every project.<ref name="hugeinvestment">{{cite web |url = https://techcrunch.com/2012/07/09/github-pours-energies-into-enterprise-raises-100-million-from-power-vc-andreesen-horowitz/ |title = GitHub Pours Energies into Enterprise – Raises $100 Million From Power VC Andreessen Horowitz |date = 9 July 2012 |first1 = Alex |last1 = Williams |publisher = TechCrunch |quote = Andreessen Horowitz is investing an eye-popping $100 million into GitHub }}</ref>
@@ -34,7 +34,6 @@ GitHub offers both plans for private and free [[repository (version control)|rep
 GitHub has a [[mascot]] called Octocat, a cat with five tentacles and a human-like face.<ref name="Octodex FAQ">{{cite web |title = GitHub Octodex FAQ |url = https://octodex.github.com/faq.html |accessdate = 21 September 2015 |website = github.com }}</ref><ref name="Jaramillo">{{cite web |url=https://github.com/blog/1929-from-sticker-to-sculpture-the-making-of-the-octocat-figurine |title=From Sticker to Sculpture: The making of the Octocat figurine |date=24 November 2014 |last=Jaramillo |first=Tony |website=The GitHub Blog |publisher=GitHub |access-date=2017-04-19}}</ref>
 
 == Services ==
-
 === GitHub ===
 Development of the GitHub platform began on 1 October 2007.<ref name="beginning">{{cite web |url = http://blogs.esri.com/esri/arcgis/2014/02/10/github-ceo-and-co-founder-chris-wanstrath-keynoting-esris-devsummit/ |title = GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit! |first1 = Kristina |last1 = Weis |date = 2014-02-10 |quote = in 2007 they began working on GitHub as a side project }}</ref><ref name="githuboneyear">{{cite web |url = https://github.com/blog/185-github-turns-one |title = GitHub Turns One! |work = GitHub |date = 19 October 2008 |first = Tom |last = Preston-Werner |accessdate = 2014-03-28 }}</ref> The site was launched in April 2008 by [[Tom Preston-Werner]], [[Chris Wanstrath]], and PJ Hyett after it had been made available for a few months prior as a beta release.<ref name="pastie">{{cite web |url = http://www.sitepoint.com/github-gist-is-pastie-on-steroids/ |title = GitHub Gist is Pastie on Steroids |date = 24 July 2008 |first1 = Josh |last1 = Catone |quote=GitHub hosts about 10,000 projects and officially launched in April of this year after a beta period of a few months.}}</ref>
 
@@ -80,6 +79,7 @@ GitHub Enterprise is similar to GitHub's public service but is designed for use 
 GitHub also operates other services: a [[pastebin]]-style site called '''Gist'''<ref name="pastie"/> that is for hosting [[Snippet (programming)|code snippets]] (GitHub proper is for hosting larger projects), and a [[slide hosting service]] called Speaker Deck.
 
 Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.<ref>{{cite conference |title = God's memory leak - a scientific treatment |first = Tom |last = Preston-Werner |url = https://groups.google.com/forum/#!topic/god-rb/Acyit8SlgcI |date = 2008-07-20 |conference = RubyFringe |conferenceurl = https://unspace.ca/rubyfringe/ |accessdate = 2014-10-21 |quote = He previewed the upcoming git feature gist }}</ref> Gist builds on the traditional simple concept of a [[pastebin]] by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.
+
 <!-- Placeholder for potential section about Speaker Deck
 === Speaker Deck ===
 -->
@@ -87,13 +87,12 @@ Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby confe
 === Education program ===
 GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with [[Bitnami]], [[Crowdflower]], [[DigitalOcean]], [[DNSimple]], [[HackHands]], [[Namecheap]], Orchestrate, Screenhero, [[SendGrid]], [[Stripe (company)|Stripe]], [[Travis CI]] and [[Unreal Engine]] to launch the program.<ref>{{cite web|first=Frederic|last=Lardinois|publisher=TechCrunch|url=https://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/|title=GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools|date=7 October 2014|access-date=7 October 2014}}</ref>
 
-
 === GitHub Marketplace service ===
 Git also provides some software as a service (ref to saas) to their users with the objective of add extra features to their projects. Those software are:
-*Rollbar: Integrate with GitHub to provide real time debugging tools and full-stack exception reporting. It is compatible with all well used code languages, such as JavaScript, Python, .Net, Ruby, PHP, Node.js, Android, iOS, Go, Java and C#.
-*Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotllin, Objective-C, TypeScript.
-*Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python,Php, Ruby and Swift.
-*GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
+* Rollbar: Integrate with GitHub to provide real time debugging tools and full-stack exception reporting. It is compatible with all well used code languages, such as JavaScript, Python, .Net, Ruby, PHP, Node.js, Android, iOS, Go, Java and C#.
+* Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotllin, Objective-C, TypeScript.
+* Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python,Php, Ruby and Swift.
+* GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
 
 == History ==
 [[File:Mapping collaborative software on GitHub.png|thumb|The shading of the map illustrates the number of users as a proportion of each country’s [[Internet population]]. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.]]
@@ -141,7 +140,6 @@ GitHub renamed Octopuss to Octocat,<ref name="DeAmicis"/> and trademarked the ch
 GitHub, Inc. was originally known as Logical Awesome LLC.<ref>{{cite web |url = https://github.com/blog/589-new-year-new-company |title = New Year, New Company |access-date = 11 April 2016 }}</ref>
 
 === Organizational structure ===
-
 GitHub, Inc. was originally a [[flat organization]] with no middle managers; in other words, "everyone is a manager" ([[Workers' self-management|self-management]]).<ref name='cto-mgmt-style'>{{cite web |url = http://tomayko.com/writings/management-style |title = Show How, Don't Tell What - A Management Style |first = Ryan |last = Tomayko |date = 2 April 2012 |accessdate = 28 August 2013 }}</ref> Employees can choose to work on projects that interest them ([[open allocation]]). However, salaries are set by the chief executive.<ref name='nyt'>{{cite news |url = http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/?_r=0 |title = Dreams of 'Open' Everything |first = Quentin |last = Hardy |publisher = New York Times }}</ref>{{update inline|date=August 2014}}
 
 In 2014, GitHub, Inc. introduced a layer of middle management.<ref name="wsj-2014">{{cite news |url = https://www.wsj.com/articles/harassment-claims-make-startup-github-grow-up-1405639553 |title = Harassment claims make startup GitHub grow up |last = Evelyn |first = Rusli |work = [[Wall Street Journal]] |accessdate = 18 July 2014 |date = 17 July 2014 }}</ref>
