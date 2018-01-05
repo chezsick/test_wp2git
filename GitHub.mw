@@ -88,6 +88,7 @@ GitHub launched a new program called the GitHub Student Developer Pack to give s
 
 === GitHub Marketplace service ===
 GitHub also provides some [[software as a service]] integrations for adding extra features to projects. Those services include:
+* Waffle.io: Project management for software teams. Automatically see pull requests, automated builds, reviews, and deployments across all of your repositories in GitHub.
 * Rollbar: Integrate with GitHub to provide real time debugging tools and full-stack exception reporting. It is compatible with all well used code languages, such as JavaScript, Python, .Net, Ruby, PHP, Node.js, Android, iOS, Go, Java and C#.
 * Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, TypeScript.
 * Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python, PHP, Ruby and Swift.
