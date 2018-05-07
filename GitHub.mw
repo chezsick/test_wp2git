@@ -15,7 +15,6 @@
 |industry             = Software
 |international        = Yes
 |employees            = 745<ref>{{cite web|title=About - GitHub|url=https://github.com/about|website=GitHub}}</ref>
-|slogan               = "Build software better, together.", "Where software is built"
 |url                  = {{url|github.com}}
 |programming language = [[Ruby (programming language)|Ruby]]
 |alexa                = {{increase}} 63 ({{as of|2018|04|25|alt=April 2018}})<ref>{{cite web |url = https://www.alexa.com/siteinfo/GitHub.com |title = Github.com Alexa Ranking |publisher = Alexa Internet |accessdate = April 25, 2018 }}</ref>
@@ -34,7 +33,7 @@ GitHub offers plans for both private repositories and free accounts<ref>{{cite w
 == Company history ==
 [[File:Mapping collaborative software on GitHub.png|thumb|The shading of the map illustrates the number of users as a proportion of each country's [[Internet population]]. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.]]
 
-On March 1, 2008, [[Chris Wanstrath]] mentioned in a blog post<ref>{{cite web|title=GitHub: Free for Open Source|url=https://blog.github.com/page/197/index.html|last=Wanstrath|first=Chris|date=1 March 2008|website=Github}}</ref> that Github had 2000 users. 
+On March 1, 2008, [[Chris Wanstrath]] mentioned in a blog post<ref>{{cite web|title=GitHub: Free for Open Source|url=https://blog.github.com/page/197/index.html|last=Wanstrath|first=Chris|date=1 March 2008|website=Github}}</ref> that Github had 2000 users.
 
 On February 24, 2009, GitHub team members announced, in a talk at [[Yahoo!]] headquarters, that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month alone. At that time, about 6,200 repositories had been [[fork (software development)|forked]] at least once and 4,600 had been merged.
 
@@ -56,7 +55,7 @@ In 2016, GitHub was ranked No. 14 on the [[Forbes|Forbes Cloud 100]] list.<ref>{
 
 With the first release on July 21, 2017, [[Brave (web browser)|Brave]] web browser features Github as one of its default search engines.<ref>{{cite web|url=https://github.com/brave/browser-laptop|title=Brave Browser Github page|website=Github|accessdate=10 August 2017}}</ref>
 
-On February 28, 2018, GitHub fell victim to the largest [[distributed denial-of-service|distributed denial-of-service (DDoS)]] attack in history, reaching a peak of about 1.35 terabits per second. <ref name="DDOS">{{cite news|title=GitHub Survived the Biggest DDoS Attack Ever Recorded|url=https://www.wired.com/story/github-ddos-memcached/|accessdate=2 March 2018|work=WIRED}}</ref>
+On February 28, 2018, GitHub fell victim to the largest [[distributed denial-of-service|distributed denial-of-service (DDoS)]] attack in history, reaching a peak of about 1.35 terabits per second.<ref name="DDOS">{{cite news|title=GitHub Survived the Biggest DDoS Attack Ever Recorded|url=https://www.wired.com/story/github-ddos-memcached/|accessdate=2 March 2018|work=WIRED}}</ref>
 
 === Censorship ===
 {{main| Censorship of GitHub}}
